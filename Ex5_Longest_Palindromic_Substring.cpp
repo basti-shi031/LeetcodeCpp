@@ -75,6 +75,7 @@ public:
 	}
 };
 
+/*
 int main() 
 {
 	string s;
@@ -83,4 +84,4 @@ int main()
 	string result = so.longestPalindrome(s);
 	cout << result;
 	system("pause");
-}
+}*/
