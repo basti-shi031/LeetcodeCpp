@@ -30,12 +30,12 @@ public:
 	}
 };
 
-int main()
-{
-	int nums;
-	cin >> nums;
-	Solution so = Solution();
-	bool result = so.isPalindrome(nums);
-	cout << result;
-	system("pause");
-}
+//int main()
+//{
+//	int nums;
+//	cin >> nums;
+//	Solution so = Solution();
+//	bool result = so.isPalindrome(nums);
+//	cout << result;
+//	system("pause");
+//}
