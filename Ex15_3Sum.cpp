@@ -68,31 +68,31 @@ public:
 	}
 };
 
-int main()
-{
-	vector<int> nums;
-	while (true)
-	{
-		int a;
-		cin >> a;
-		if (a == 10)
-		{
-			break;
-		}
-		nums.push_back(a);
-	}
-
-	Solution so = Solution();
-	vector<vector<int>> result = so.threeSum(nums);
-
-	for (vector<int> v : result)
-	{
-		for (int a : v)
-		{
-			cout << a << " ";
-		}
-		cout << endl;
-	}
-
-	system("pause");
-}
+//int main()
+//{
+//	vector<int> nums;
+//	while (true)
+//	{
+//		int a;
+//		cin >> a;
+//		if (a == 10)
+//		{
+//			break;
+//		}
+//		nums.push_back(a);
+//	}
+//
+//	Solution so = Solution();
+//	vector<vector<int>> result = so.threeSum(nums);
+//
+//	for (vector<int> v : result)
+//	{
+//		for (int a : v)
+//		{
+//			cout << a << " ";
+//		}
+//		cout << endl;
+//	}
+//
+//	system("pause");
+//}
