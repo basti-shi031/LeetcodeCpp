@@ -40,12 +40,12 @@ public:
 	}
 };
 
-int main() 
-{
-	string longS, shortS;
-	cin >> longS>>shortS;
-	Solution so = Solution();
-
-	cout << so.strStr(longS, shortS);
-	system("pause");
-}
+//int main() 
+//{
+//	string longS, shortS;
+//	cin >> longS>>shortS;
+//	Solution so = Solution();
+//
+//	cout << so.strStr(longS, shortS);
+//	system("pause");
+//}
