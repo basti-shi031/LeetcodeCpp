@@ -73,20 +73,20 @@ public:
 	}
 };
 
-int main()
-{
-	vector<int> v;
-	v.push_back(5);
-	v.push_back(5);
-	v.push_back(7);
-	v.push_back(8);
-	v.push_back(8);
-	v.push_back(10);
-	Solution so = Solution();
-	vector<int> result = so.searchRange(v, 6);
-	for (int a:result)
-	{
-		cout << a << endl;
-	}
-	system("pause");
-}
+//int main()
+//{
+//	vector<int> v;
+//	v.push_back(5);
+//	v.push_back(5);
+//	v.push_back(7);
+//	v.push_back(8);
+//	v.push_back(8);
+//	v.push_back(10);
+//	Solution so = Solution();
+//	vector<int> result = so.searchRange(v, 6);
+//	for (int a:result)
+//	{
+//		cout << a << endl;
+//	}
+//	system("pause");
+//}
