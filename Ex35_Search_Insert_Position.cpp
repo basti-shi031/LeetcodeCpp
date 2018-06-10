@@ -41,23 +41,3 @@ public:
 		return flag == -1?mid:mid+1;
 	}
 };
-
-int main()
-{
-	vector<int> v;
-	while (true)
-	{
-		int a;
-		cin >> a;
-		if (a == 10)
-		{
-			break;
-		}
-		v.push_back(a);
-	}
-	int target;
-	cin >> target;
-	Solution so = Solution();
-	cout<<so.searchInsert(v,target);
-	system("pause");
-}
