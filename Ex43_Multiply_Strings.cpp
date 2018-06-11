@@ -3,7 +3,7 @@
 #include<vector>
 using namespace std;
 
-
+//finished
 class Solution {
 public:
 	vector<string> nums;
@@ -84,12 +84,12 @@ public:
 		return sum;
 	}
 };
-
-int main()
-{
-	string a, b;
-	cin >> a >> b;
-	Solution so = Solution();
-	cout << so.multiply(a, b);
-	system("pause");
-}
+//
+//int main()
+//{
+//	string a, b;
+//	cin >> a >> b;
+//	Solution so = Solution();
+//	cout << so.multiply(a, b);
+//	system("pause");
+//}
