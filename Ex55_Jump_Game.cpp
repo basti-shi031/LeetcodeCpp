@@ -41,6 +41,7 @@ public:
     }
 };
 
+/*
 int main(){
     vector<int> vector1;
     vector1.push_back(1);
@@ -51,4 +52,4 @@ int main(){
     Solution solution = Solution();
     cout << solution.canJump(vector1);
 
-}
+}*/
