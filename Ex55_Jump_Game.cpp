@@ -41,11 +41,10 @@ public:
     }
 };
 
-/*
-int main(){
+/*int main(){
     vector<int> vector1;
     vector1.push_back(1);
-    vector1.push_back(0);
+    vector1.push_back(1);
     vector1.push_back(2);
     vector1.push_back(2);
     vector1.push_back(0);
