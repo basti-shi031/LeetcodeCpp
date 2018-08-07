@@ -28,8 +28,3 @@ public:
         return v[0];
     }
 };
-
-int main() {
-    Solution solution = Solution();
-    solution.uniquePathsWithObstacles();
-}
