@@ -41,6 +41,7 @@ public:
     }
 };
 
+/*
 int main() {
     vector<int> v1, v2, v3, v4;
     vector<vector<int>> result;
@@ -70,4 +71,4 @@ int main() {
 //    result.push_back(v4);
     Solution solution = Solution();
     cout << solution.searchMatrix(result, 0);
-}
+}*/
