@@ -44,8 +44,3 @@ public:
     }
 };
 
-int main(){
-    Solution solution = Solution();
-    vector<string> v = solution.restoreIpAddresses("25525511135");
-    cout<<v.size();
-}
