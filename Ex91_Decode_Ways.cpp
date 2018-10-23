@@ -50,8 +50,3 @@ public:
     }
 };
 
-int main() {
-    Solution solution = Solution();
-    int a = solution.numDecodings("07");
-    cout << a;
-}
