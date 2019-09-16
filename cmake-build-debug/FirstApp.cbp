@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FirstApp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BastiLeetCode">
+				<Option output="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/BastiLeetCode.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 BastiLeetCode"/>
+					<CompileFile command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BastiLeetCode/fast">
+				<Option output="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/BastiLeetCode.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\cs\clion\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 BastiLeetCode/fast"/>
+					<CompileFile command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cs/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex100_Same_Tree.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex101_Symmetric_Tree.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex22_Generate_Parentheses.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex46_Permutations.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex53_Maximum_Subarray.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex55_Jump_Game.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex62_Unique_Paths.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex63_Unique_Paths_II.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex66_Plus_One.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex67_Add_Binary.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex69_Sqrt_x.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex70_Climbing_Stairs.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex73_Set_Matrix_Zeroes.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex74_Search_a_2D_Matrix.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex83_Remove_Duplicates_from_Sorted_List.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex91_Decode_Ways.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex93_Restore_IP_Addresses.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex_50_Pow_x_n.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex_61_Rotate_List.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

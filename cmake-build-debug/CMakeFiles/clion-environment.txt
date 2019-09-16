@@ -1,0 +1,4 @@
+ToolSet: 5.0@C:\cs\clion\MinGW
+Options: 
+
+Options:

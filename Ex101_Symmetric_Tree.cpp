@@ -42,6 +42,7 @@ public:
     }
 };
 
+/*
 int main() {
     Solution solution = Solution();
     TreeNode s1 = TreeNode(1);
@@ -59,4 +60,4 @@ int main() {
     s3.right = &s7;
     bool result = solution.isSymmetric(&s1);
     cout << result;
-}
+}*/
