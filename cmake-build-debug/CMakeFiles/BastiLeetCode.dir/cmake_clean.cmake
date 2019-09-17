@@ -19,6 +19,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/BastiLeetCode.dir/Ex67_Add_Binary.cpp.obj"
   "CMakeFiles/BastiLeetCode.dir/Ex70_Climbing_Stairs.cpp.obj"
   "CMakeFiles/BastiLeetCode.dir/Ex83_Remove_Duplicates_from_Sorted_List.cpp.obj"
+  "CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj"
+  "CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj"
   "BastiLeetCode.pdb"
   "BastiLeetCode.exe"
   "BastiLeetCode.exe.manifest"

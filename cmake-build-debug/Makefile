@@ -176,6 +176,33 @@ Ex101_Symmetric_Tree.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex101_Symmetric_Tree.cpp.s
 .PHONY : Ex101_Symmetric_Tree.cpp.s
 
+Ex104_Maximum_Depth_of_Binary_Tree.obj: Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj
+
+.PHONY : Ex104_Maximum_Depth_of_Binary_Tree.obj
+
+# target to build an object file
+Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj
+.PHONY : Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj
+
+Ex104_Maximum_Depth_of_Binary_Tree.i: Ex104_Maximum_Depth_of_Binary_Tree.cpp.i
+
+.PHONY : Ex104_Maximum_Depth_of_Binary_Tree.i
+
+# target to preprocess a source file
+Ex104_Maximum_Depth_of_Binary_Tree.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.i
+.PHONY : Ex104_Maximum_Depth_of_Binary_Tree.cpp.i
+
+Ex104_Maximum_Depth_of_Binary_Tree.s: Ex104_Maximum_Depth_of_Binary_Tree.cpp.s
+
+.PHONY : Ex104_Maximum_Depth_of_Binary_Tree.s
+
+# target to generate assembly for a file
+Ex104_Maximum_Depth_of_Binary_Tree.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.s
+.PHONY : Ex104_Maximum_Depth_of_Binary_Tree.cpp.s
+
 Ex22_Generate_Parentheses.obj: Ex22_Generate_Parentheses.cpp.obj
 
 .PHONY : Ex22_Generate_Parentheses.obj
@@ -554,6 +581,33 @@ Ex83_Remove_Duplicates_from_Sorted_List.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex83_Remove_Duplicates_from_Sorted_List.cpp.s
 .PHONY : Ex83_Remove_Duplicates_from_Sorted_List.cpp.s
 
+Ex88_Merge_Sorted_Array.obj: Ex88_Merge_Sorted_Array.cpp.obj
+
+.PHONY : Ex88_Merge_Sorted_Array.obj
+
+# target to build an object file
+Ex88_Merge_Sorted_Array.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj
+.PHONY : Ex88_Merge_Sorted_Array.cpp.obj
+
+Ex88_Merge_Sorted_Array.i: Ex88_Merge_Sorted_Array.cpp.i
+
+.PHONY : Ex88_Merge_Sorted_Array.i
+
+# target to preprocess a source file
+Ex88_Merge_Sorted_Array.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.i
+.PHONY : Ex88_Merge_Sorted_Array.cpp.i
+
+Ex88_Merge_Sorted_Array.s: Ex88_Merge_Sorted_Array.cpp.s
+
+.PHONY : Ex88_Merge_Sorted_Array.s
+
+# target to generate assembly for a file
+Ex88_Merge_Sorted_Array.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.s
+.PHONY : Ex88_Merge_Sorted_Array.cpp.s
+
 Ex91_Decode_Ways.obj: Ex91_Decode_Ways.cpp.obj
 
 .PHONY : Ex91_Decode_Ways.obj
@@ -677,6 +731,9 @@ help:
 	@echo ... Ex101_Symmetric_Tree.obj
 	@echo ... Ex101_Symmetric_Tree.i
 	@echo ... Ex101_Symmetric_Tree.s
+	@echo ... Ex104_Maximum_Depth_of_Binary_Tree.obj
+	@echo ... Ex104_Maximum_Depth_of_Binary_Tree.i
+	@echo ... Ex104_Maximum_Depth_of_Binary_Tree.s
 	@echo ... Ex22_Generate_Parentheses.obj
 	@echo ... Ex22_Generate_Parentheses.i
 	@echo ... Ex22_Generate_Parentheses.s
@@ -719,6 +776,9 @@ help:
 	@echo ... Ex83_Remove_Duplicates_from_Sorted_List.obj
 	@echo ... Ex83_Remove_Duplicates_from_Sorted_List.i
 	@echo ... Ex83_Remove_Duplicates_from_Sorted_List.s
+	@echo ... Ex88_Merge_Sorted_Array.obj
+	@echo ... Ex88_Merge_Sorted_Array.i
+	@echo ... Ex88_Merge_Sorted_Array.s
 	@echo ... Ex91_Decode_Ways.obj
 	@echo ... Ex91_Decode_Ways.i
 	@echo ... Ex91_Decode_Ways.s

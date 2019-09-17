@@ -536,6 +536,54 @@ CMakeFiles/BastiLeetCode.dir/Ex83_Remove_Duplicates_from_Sorted_List.cpp.obj.pro
 CMakeFiles/BastiLeetCode.dir/Ex83_Remove_Duplicates_from_Sorted_List.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex83_Remove_Duplicates_from_Sorted_List.cpp.obj
 
 
+CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj: ../Ex88_Merge_Sorted_Array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex88_Merge_Sorted_Array.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex88_Merge_Sorted_Array.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex88_Merge_Sorted_Array.cpp > CMakeFiles\BastiLeetCode.dir\Ex88_Merge_Sorted_Array.cpp.i
+
+CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex88_Merge_Sorted_Array.cpp -o CMakeFiles\BastiLeetCode.dir\Ex88_Merge_Sorted_Array.cpp.s
+
+CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj.requires:
+
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj.requires
+
+CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj.provides
+
+CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj
+
+
+CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj: ../Ex104_Maximum_Depth_of_Binary_Tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex104_Maximum_Depth_of_Binary_Tree.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex104_Maximum_Depth_of_Binary_Tree.cpp > CMakeFiles\BastiLeetCode.dir\Ex104_Maximum_Depth_of_Binary_Tree.cpp.i
+
+CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex104_Maximum_Depth_of_Binary_Tree.cpp -o CMakeFiles\BastiLeetCode.dir\Ex104_Maximum_Depth_of_Binary_Tree.cpp.s
+
+CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj.requires:
+
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj.requires
+
+CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj.provides
+
+CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj
+
+
 # Object files for target BastiLeetCode
 BastiLeetCode_OBJECTS = \
 "CMakeFiles/BastiLeetCode.dir/Ex22_Generate_Parentheses.cpp.obj" \
@@ -557,7 +605,9 @@ BastiLeetCode_OBJECTS = \
 "CMakeFiles/BastiLeetCode.dir/Ex53_Maximum_Subarray.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex67_Add_Binary.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex70_Climbing_Stairs.cpp.obj" \
-"CMakeFiles/BastiLeetCode.dir/Ex83_Remove_Duplicates_from_Sorted_List.cpp.obj"
+"CMakeFiles/BastiLeetCode.dir/Ex83_Remove_Duplicates_from_Sorted_List.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj"
 
 # External object files for target BastiLeetCode
 BastiLeetCode_EXTERNAL_OBJECTS =
@@ -582,11 +632,13 @@ BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex53_Maximum_Subarray.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex67_Add_Binary.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex70_Climbing_Stairs.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex83_Remove_Duplicates_from_Sorted_List.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/build.make
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/linklibs.rsp
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/objects1.rsp
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable BastiLeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable BastiLeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\BastiLeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -614,6 +666,8 @@ CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex53_Maximum
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex67_Add_Binary.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex70_Climbing_Stairs.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex83_Remove_Duplicates_from_Sorted_List.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj.requires
 
 .PHONY : CMakeFiles/BastiLeetCode.dir/requires
 
