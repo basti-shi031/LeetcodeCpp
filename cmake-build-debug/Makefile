@@ -203,6 +203,60 @@ Ex104_Maximum_Depth_of_Binary_Tree.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.s
 .PHONY : Ex104_Maximum_Depth_of_Binary_Tree.cpp.s
 
+Ex107_Binary_Tree_Level_Order_Traversal_II.obj: Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.obj
+
+.PHONY : Ex107_Binary_Tree_Level_Order_Traversal_II.obj
+
+# target to build an object file
+Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.obj
+.PHONY : Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.obj
+
+Ex107_Binary_Tree_Level_Order_Traversal_II.i: Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.i
+
+.PHONY : Ex107_Binary_Tree_Level_Order_Traversal_II.i
+
+# target to preprocess a source file
+Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.i
+.PHONY : Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.i
+
+Ex107_Binary_Tree_Level_Order_Traversal_II.s: Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.s
+
+.PHONY : Ex107_Binary_Tree_Level_Order_Traversal_II.s
+
+# target to generate assembly for a file
+Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.s
+.PHONY : Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.s
+
+Ex18_4Sum.obj: Ex18_4Sum.cpp.obj
+
+.PHONY : Ex18_4Sum.obj
+
+# target to build an object file
+Ex18_4Sum.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex18_4Sum.cpp.obj
+.PHONY : Ex18_4Sum.cpp.obj
+
+Ex18_4Sum.i: Ex18_4Sum.cpp.i
+
+.PHONY : Ex18_4Sum.i
+
+# target to preprocess a source file
+Ex18_4Sum.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex18_4Sum.cpp.i
+.PHONY : Ex18_4Sum.cpp.i
+
+Ex18_4Sum.s: Ex18_4Sum.cpp.s
+
+.PHONY : Ex18_4Sum.s
+
+# target to generate assembly for a file
+Ex18_4Sum.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex18_4Sum.cpp.s
+.PHONY : Ex18_4Sum.cpp.s
+
 Ex22_Generate_Parentheses.obj: Ex22_Generate_Parentheses.cpp.obj
 
 .PHONY : Ex22_Generate_Parentheses.obj
@@ -734,6 +788,12 @@ help:
 	@echo ... Ex104_Maximum_Depth_of_Binary_Tree.obj
 	@echo ... Ex104_Maximum_Depth_of_Binary_Tree.i
 	@echo ... Ex104_Maximum_Depth_of_Binary_Tree.s
+	@echo ... Ex107_Binary_Tree_Level_Order_Traversal_II.obj
+	@echo ... Ex107_Binary_Tree_Level_Order_Traversal_II.i
+	@echo ... Ex107_Binary_Tree_Level_Order_Traversal_II.s
+	@echo ... Ex18_4Sum.obj
+	@echo ... Ex18_4Sum.i
+	@echo ... Ex18_4Sum.s
 	@echo ... Ex22_Generate_Parentheses.obj
 	@echo ... Ex22_Generate_Parentheses.i
 	@echo ... Ex22_Generate_Parentheses.s
