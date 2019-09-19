@@ -284,6 +284,33 @@ Ex22_Generate_Parentheses.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex22_Generate_Parentheses.cpp.s
 .PHONY : Ex22_Generate_Parentheses.cpp.s
 
+Ex31_Next_Permutation.obj: Ex31_Next_Permutation.cpp.obj
+
+.PHONY : Ex31_Next_Permutation.obj
+
+# target to build an object file
+Ex31_Next_Permutation.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.obj
+.PHONY : Ex31_Next_Permutation.cpp.obj
+
+Ex31_Next_Permutation.i: Ex31_Next_Permutation.cpp.i
+
+.PHONY : Ex31_Next_Permutation.i
+
+# target to preprocess a source file
+Ex31_Next_Permutation.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.i
+.PHONY : Ex31_Next_Permutation.cpp.i
+
+Ex31_Next_Permutation.s: Ex31_Next_Permutation.cpp.s
+
+.PHONY : Ex31_Next_Permutation.s
+
+# target to generate assembly for a file
+Ex31_Next_Permutation.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.s
+.PHONY : Ex31_Next_Permutation.cpp.s
+
 Ex46_Permutations.obj: Ex46_Permutations.cpp.obj
 
 .PHONY : Ex46_Permutations.obj
@@ -797,6 +824,9 @@ help:
 	@echo ... Ex22_Generate_Parentheses.obj
 	@echo ... Ex22_Generate_Parentheses.i
 	@echo ... Ex22_Generate_Parentheses.s
+	@echo ... Ex31_Next_Permutation.obj
+	@echo ... Ex31_Next_Permutation.i
+	@echo ... Ex31_Next_Permutation.s
 	@echo ... Ex46_Permutations.obj
 	@echo ... Ex46_Permutations.i
 	@echo ... Ex46_Permutations.s

@@ -10,6 +10,8 @@
 
 using namespace std;
 
+//todo
+// too slow
 class Solution {
 public:
 
@@ -83,6 +85,7 @@ public:
     }
 };
 
+/*
 int main() {
     vector<int> v;
     v.push_back(1);
@@ -99,4 +102,4 @@ int main() {
         }
         cout << endl;
     }
-}
+}*/

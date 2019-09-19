@@ -12,22 +12,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24286790-9fd0-408e-a66d-a462afca6f39" name="Default" comment="update">
-      <change afterPath="$PROJECT_DIR$/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex112_Path_Sum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex119_Pascal's_Triangle_II.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex121_Bes_ Time_to_Buy_and_Sell_Stock.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex122_Best_Time_to_Buy_and_Sell_Stock_II.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex18_4Sum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_118._Pascal's_Triangle.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex31_Next_Permutation.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex104_Maximum_Depth_of_Binary_Tree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ex104_Maximum_Depth_of_Binary_Tree.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex18_4Sum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ex18_4Sum.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
@@ -46,11 +37,32 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ex18_4Sum.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="133" selection-start-line="8" selection-start-column="133" selection-end-line="8" selection-end-column="133" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ex31_Next_Permutation.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ex31_Next_Permutation.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="e#44#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ex18_4Sum.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ex18_4Sum.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="97" column="29" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
+            <state relative-caret-position="228">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
               <folding>
                 <element signature="e#44#63#0" expanded="true" />
               </folding>
@@ -125,9 +137,10 @@
         <option value="$PROJECT_DIR$/Ex119_Pascal's_Triangle_II.cpp" />
         <option value="$PROJECT_DIR$/Ex121_Bes_ Time_to_Buy_and_Sell_Stock.cpp" />
         <option value="$PROJECT_DIR$/Ex122_Best_Time_to_Buy_and_Sell_Stock_II.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Ex104_Maximum_Depth_of_Binary_Tree.cpp" />
         <option value="$PROJECT_DIR$/Ex18_4Sum.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Ex31_Next_Permutation.cpp" />
       </list>
     </option>
   </component>
@@ -172,7 +185,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -226,7 +239,7 @@
       <workItem from="1540274273609" duration="8152000" />
       <workItem from="1568619103316" duration="12859000" />
       <workItem from="1568698885253" duration="8065000" />
-      <workItem from="1568805662143" duration="5550000" />
+      <workItem from="1568805662143" duration="10052000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1529825074706</created>
@@ -309,11 +322,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110063000" />
+    <option name="totallyTimeSpent" value="114565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29114583" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -321,11 +333,11 @@
       <window_info anchor="bottom" id="CMake" order="11" weight="0.24285714" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35918367" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13367347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.46836734" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.13469388" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -370,26 +382,19 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/Ex18_4Sum.cpp</url>
-          <line>71</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Ex18_4Sum.cpp</url>
-          <line>94</line>
+          <line>97</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Ex31_Next_Permutation.cpp</url>
+          <line>62</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="65" />
+      <option name="time" value="66" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ex46_Permutations.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/cs/clion/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_algo.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -692,13 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="107" selection-start-line="8" selection-start-column="107" selection-end-line="8" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ex22_Generate_Parentheses.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-420">
@@ -742,10 +740,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="133" selection-start-line="8" selection-start-column="133" selection-end-line="8" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ex18_4Sum.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="97" column="29" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
+        <state relative-caret-position="228">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex31_Next_Permutation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding>
             <element signature="e#44#63#0" expanded="true" />
           </folding>

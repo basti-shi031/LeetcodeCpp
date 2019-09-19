@@ -23,6 +23,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj"
   "CMakeFiles/BastiLeetCode.dir/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.obj"
   "CMakeFiles/BastiLeetCode.dir/Ex18_4Sum.cpp.obj"
+  "CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.obj"
   "BastiLeetCode.pdb"
   "BastiLeetCode.exe"
   "BastiLeetCode.exe.manifest"
