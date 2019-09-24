@@ -656,6 +656,54 @@ CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.obj.provides: CMakeFiles/
 CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.obj
 
 
+CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj: ../Ex39_Combination_Sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex39_Combination_Sum.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex39_Combination_Sum.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex39_Combination_Sum.cpp > CMakeFiles\BastiLeetCode.dir\Ex39_Combination_Sum.cpp.i
+
+CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex39_Combination_Sum.cpp -o CMakeFiles\BastiLeetCode.dir\Ex39_Combination_Sum.cpp.s
+
+CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj.requires:
+
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj.requires
+
+CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj.provides
+
+CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj
+
+
+CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj: ../Ex40_Combination_Sum_II.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex40_Combination_Sum_II.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex40_Combination_Sum_II.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex40_Combination_Sum_II.cpp > CMakeFiles\BastiLeetCode.dir\Ex40_Combination_Sum_II.cpp.i
+
+CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex40_Combination_Sum_II.cpp -o CMakeFiles\BastiLeetCode.dir\Ex40_Combination_Sum_II.cpp.s
+
+CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj.requires:
+
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj.requires
+
+CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj.provides
+
+CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj
+
+
 # Object files for target BastiLeetCode
 BastiLeetCode_OBJECTS = \
 "CMakeFiles/BastiLeetCode.dir/Ex22_Generate_Parentheses.cpp.obj" \
@@ -682,7 +730,9 @@ BastiLeetCode_OBJECTS = \
 "CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex18_4Sum.cpp.obj" \
-"CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.obj"
+"CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj"
 
 # External object files for target BastiLeetCode
 BastiLeetCode_EXTERNAL_OBJECTS =
@@ -712,11 +762,13 @@ BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tr
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex18_4Sum.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/build.make
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/linklibs.rsp
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/objects1.rsp
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable BastiLeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX executable BastiLeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\BastiLeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -749,6 +801,8 @@ CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex104_Maximu
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex18_4Sum.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj.requires
 
 .PHONY : CMakeFiles/BastiLeetCode.dir/requires
 

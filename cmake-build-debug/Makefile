@@ -311,6 +311,60 @@ Ex31_Next_Permutation.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.s
 .PHONY : Ex31_Next_Permutation.cpp.s
 
+Ex39_Combination_Sum.obj: Ex39_Combination_Sum.cpp.obj
+
+.PHONY : Ex39_Combination_Sum.obj
+
+# target to build an object file
+Ex39_Combination_Sum.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj
+.PHONY : Ex39_Combination_Sum.cpp.obj
+
+Ex39_Combination_Sum.i: Ex39_Combination_Sum.cpp.i
+
+.PHONY : Ex39_Combination_Sum.i
+
+# target to preprocess a source file
+Ex39_Combination_Sum.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.i
+.PHONY : Ex39_Combination_Sum.cpp.i
+
+Ex39_Combination_Sum.s: Ex39_Combination_Sum.cpp.s
+
+.PHONY : Ex39_Combination_Sum.s
+
+# target to generate assembly for a file
+Ex39_Combination_Sum.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.s
+.PHONY : Ex39_Combination_Sum.cpp.s
+
+Ex40_Combination_Sum_II.obj: Ex40_Combination_Sum_II.cpp.obj
+
+.PHONY : Ex40_Combination_Sum_II.obj
+
+# target to build an object file
+Ex40_Combination_Sum_II.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj
+.PHONY : Ex40_Combination_Sum_II.cpp.obj
+
+Ex40_Combination_Sum_II.i: Ex40_Combination_Sum_II.cpp.i
+
+.PHONY : Ex40_Combination_Sum_II.i
+
+# target to preprocess a source file
+Ex40_Combination_Sum_II.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.i
+.PHONY : Ex40_Combination_Sum_II.cpp.i
+
+Ex40_Combination_Sum_II.s: Ex40_Combination_Sum_II.cpp.s
+
+.PHONY : Ex40_Combination_Sum_II.s
+
+# target to generate assembly for a file
+Ex40_Combination_Sum_II.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.s
+.PHONY : Ex40_Combination_Sum_II.cpp.s
+
 Ex46_Permutations.obj: Ex46_Permutations.cpp.obj
 
 .PHONY : Ex46_Permutations.obj
@@ -827,6 +881,12 @@ help:
 	@echo ... Ex31_Next_Permutation.obj
 	@echo ... Ex31_Next_Permutation.i
 	@echo ... Ex31_Next_Permutation.s
+	@echo ... Ex39_Combination_Sum.obj
+	@echo ... Ex39_Combination_Sum.i
+	@echo ... Ex39_Combination_Sum.s
+	@echo ... Ex40_Combination_Sum_II.obj
+	@echo ... Ex40_Combination_Sum_II.i
+	@echo ... Ex40_Combination_Sum_II.s
 	@echo ... Ex46_Permutations.obj
 	@echo ... Ex46_Permutations.i
 	@echo ... Ex46_Permutations.s

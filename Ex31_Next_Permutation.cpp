@@ -52,6 +52,7 @@ public:
         sort(nums.begin() + needChangeIndex + 1, nums.end());
     }
 };
+/*
 
 int main() {
 
@@ -61,4 +62,4 @@ int main() {
 
     Solution solution = Solution();
     solution.nextPermutation(nums);
-}
+}*/

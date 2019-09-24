@@ -15,6 +15,10 @@ CMakeFiles/BastiLeetCode.dir/Ex22_Generate_Parentheses.cpp.obj: ../Ex22_Generate
 
 CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.obj: ../Ex31_Next_Permutation.cpp
 
+CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj: ../Ex39_Combination_Sum.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj: ../Ex40_Combination_Sum_II.cpp
+
 CMakeFiles/BastiLeetCode.dir/Ex46_Permutations.cpp.obj: ../Ex46_Permutations.cpp
 
 CMakeFiles/BastiLeetCode.dir/Ex53_Maximum_Subarray.cpp.obj: ../Ex53_Maximum_Subarray.cpp

@@ -24,6 +24,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/BastiLeetCode.dir/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.obj"
   "CMakeFiles/BastiLeetCode.dir/Ex18_4Sum.cpp.obj"
   "CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.obj"
+  "CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj"
+  "CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj"
   "BastiLeetCode.pdb"
   "BastiLeetCode.exe"
   "BastiLeetCode.exe.manifest"
