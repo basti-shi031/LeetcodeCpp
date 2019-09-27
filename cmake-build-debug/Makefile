@@ -365,6 +365,33 @@ Ex40_Combination_Sum_II.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.s
 .PHONY : Ex40_Combination_Sum_II.cpp.s
 
+Ex416_Partition_Equal_Subset_Sum.obj: Ex416_Partition_Equal_Subset_Sum.cpp.obj
+
+.PHONY : Ex416_Partition_Equal_Subset_Sum.obj
+
+# target to build an object file
+Ex416_Partition_Equal_Subset_Sum.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.obj
+.PHONY : Ex416_Partition_Equal_Subset_Sum.cpp.obj
+
+Ex416_Partition_Equal_Subset_Sum.i: Ex416_Partition_Equal_Subset_Sum.cpp.i
+
+.PHONY : Ex416_Partition_Equal_Subset_Sum.i
+
+# target to preprocess a source file
+Ex416_Partition_Equal_Subset_Sum.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.i
+.PHONY : Ex416_Partition_Equal_Subset_Sum.cpp.i
+
+Ex416_Partition_Equal_Subset_Sum.s: Ex416_Partition_Equal_Subset_Sum.cpp.s
+
+.PHONY : Ex416_Partition_Equal_Subset_Sum.s
+
+# target to generate assembly for a file
+Ex416_Partition_Equal_Subset_Sum.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.s
+.PHONY : Ex416_Partition_Equal_Subset_Sum.cpp.s
+
 Ex46_Permutations.obj: Ex46_Permutations.cpp.obj
 
 .PHONY : Ex46_Permutations.obj
@@ -445,6 +472,33 @@ Ex55_Jump_Game.s: Ex55_Jump_Game.cpp.s
 Ex55_Jump_Game.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex55_Jump_Game.cpp.s
 .PHONY : Ex55_Jump_Game.cpp.s
+
+Ex56_Merge_Intervals.obj: Ex56_Merge_Intervals.cpp.obj
+
+.PHONY : Ex56_Merge_Intervals.obj
+
+# target to build an object file
+Ex56_Merge_Intervals.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex56_Merge_Intervals.cpp.obj
+.PHONY : Ex56_Merge_Intervals.cpp.obj
+
+Ex56_Merge_Intervals.i: Ex56_Merge_Intervals.cpp.i
+
+.PHONY : Ex56_Merge_Intervals.i
+
+# target to preprocess a source file
+Ex56_Merge_Intervals.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex56_Merge_Intervals.cpp.i
+.PHONY : Ex56_Merge_Intervals.cpp.i
+
+Ex56_Merge_Intervals.s: Ex56_Merge_Intervals.cpp.s
+
+.PHONY : Ex56_Merge_Intervals.s
+
+# target to generate assembly for a file
+Ex56_Merge_Intervals.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex56_Merge_Intervals.cpp.s
+.PHONY : Ex56_Merge_Intervals.cpp.s
 
 Ex62_Unique_Paths.obj: Ex62_Unique_Paths.cpp.obj
 
@@ -743,6 +797,33 @@ Ex88_Merge_Sorted_Array.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.s
 .PHONY : Ex88_Merge_Sorted_Array.cpp.s
 
+Ex89_Gray_Code.obj: Ex89_Gray_Code.cpp.obj
+
+.PHONY : Ex89_Gray_Code.obj
+
+# target to build an object file
+Ex89_Gray_Code.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex89_Gray_Code.cpp.obj
+.PHONY : Ex89_Gray_Code.cpp.obj
+
+Ex89_Gray_Code.i: Ex89_Gray_Code.cpp.i
+
+.PHONY : Ex89_Gray_Code.i
+
+# target to preprocess a source file
+Ex89_Gray_Code.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex89_Gray_Code.cpp.i
+.PHONY : Ex89_Gray_Code.cpp.i
+
+Ex89_Gray_Code.s: Ex89_Gray_Code.cpp.s
+
+.PHONY : Ex89_Gray_Code.s
+
+# target to generate assembly for a file
+Ex89_Gray_Code.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex89_Gray_Code.cpp.s
+.PHONY : Ex89_Gray_Code.cpp.s
+
 Ex91_Decode_Ways.obj: Ex91_Decode_Ways.cpp.obj
 
 .PHONY : Ex91_Decode_Ways.obj
@@ -887,6 +968,9 @@ help:
 	@echo ... Ex40_Combination_Sum_II.obj
 	@echo ... Ex40_Combination_Sum_II.i
 	@echo ... Ex40_Combination_Sum_II.s
+	@echo ... Ex416_Partition_Equal_Subset_Sum.obj
+	@echo ... Ex416_Partition_Equal_Subset_Sum.i
+	@echo ... Ex416_Partition_Equal_Subset_Sum.s
 	@echo ... Ex46_Permutations.obj
 	@echo ... Ex46_Permutations.i
 	@echo ... Ex46_Permutations.s
@@ -896,6 +980,9 @@ help:
 	@echo ... Ex55_Jump_Game.obj
 	@echo ... Ex55_Jump_Game.i
 	@echo ... Ex55_Jump_Game.s
+	@echo ... Ex56_Merge_Intervals.obj
+	@echo ... Ex56_Merge_Intervals.i
+	@echo ... Ex56_Merge_Intervals.s
 	@echo ... Ex62_Unique_Paths.obj
 	@echo ... Ex62_Unique_Paths.i
 	@echo ... Ex62_Unique_Paths.s
@@ -929,6 +1016,9 @@ help:
 	@echo ... Ex88_Merge_Sorted_Array.obj
 	@echo ... Ex88_Merge_Sorted_Array.i
 	@echo ... Ex88_Merge_Sorted_Array.s
+	@echo ... Ex89_Gray_Code.obj
+	@echo ... Ex89_Gray_Code.i
+	@echo ... Ex89_Gray_Code.s
 	@echo ... Ex91_Decode_Ways.obj
 	@echo ... Ex91_Decode_Ways.i
 	@echo ... Ex91_Decode_Ways.s

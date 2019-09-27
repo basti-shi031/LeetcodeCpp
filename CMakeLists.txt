@@ -29,4 +29,7 @@ add_executable(BastiLeetCode
         Ex107_Binary_Tree_Level_Order_Traversal_II.cpp
         Ex18_4Sum.cpp Ex31_Next_Permutation.cpp
         Ex39_Combination_Sum.cpp
-        Ex40_Combination_Sum_II.cpp)
+        Ex40_Combination_Sum_II.cpp
+        Ex89_Gray_Code.cpp
+        Ex56_Merge_Intervals.cpp
+        Ex416_Partition_Equal_Subset_Sum.cpp)

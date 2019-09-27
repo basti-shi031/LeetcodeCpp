@@ -109,6 +109,9 @@
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex40_Combination_Sum_II.cpp">
 			<Option target="BastiLeetCode"/>
 		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex416_Partition_Equal_Subset_Sum.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex46_Permutations.cpp">
 			<Option target="BastiLeetCode"/>
 		</Unit>
@@ -116,6 +119,9 @@
 			<Option target="BastiLeetCode"/>
 		</Unit>
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex55_Jump_Game.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex56_Merge_Intervals.cpp">
 			<Option target="BastiLeetCode"/>
 		</Unit>
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex62_Unique_Paths.cpp">
@@ -149,6 +155,9 @@
 			<Option target="BastiLeetCode"/>
 		</Unit>
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex88_Merge_Sorted_Array.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex89_Gray_Code.cpp">
 			<Option target="BastiLeetCode"/>
 		</Unit>
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex91_Decode_Ways.cpp">

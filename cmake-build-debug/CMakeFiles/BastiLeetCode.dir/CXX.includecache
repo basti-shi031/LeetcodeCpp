@@ -78,6 +78,14 @@ algorithm
 set
 -
 
+C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex416_Partition_Equal_Subset_Sum.cpp
+iostream
+-
+vector
+-
+math.h
+-
+
 C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex46_Permutations.cpp
 iostream
 -
@@ -91,6 +99,14 @@ vector
 -
 
 C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex55_Jump_Game.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
+C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex56_Merge_Intervals.cpp
 iostream
 -
 vector
@@ -154,6 +170,14 @@ C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex88_Merge_Sorted_Array.cpp
 iostream
 -
 vector
+-
+
+C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex89_Gray_Code.cpp
+iostream
+-
+vector
+-
+math.h
 -
 
 C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex91_Decode_Ways.cpp
