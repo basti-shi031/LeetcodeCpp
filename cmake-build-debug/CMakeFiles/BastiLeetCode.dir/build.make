@@ -176,28 +176,28 @@ CMakeFiles/BastiLeetCode.dir/Ex63_Unique_Paths_II.cpp.obj.provides: CMakeFiles/B
 CMakeFiles/BastiLeetCode.dir/Ex63_Unique_Paths_II.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex63_Unique_Paths_II.cpp.obj
 
 
-CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
-CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj: ../Ex_61_Rotate_List.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj"
-	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex_61_Rotate_List.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex_61_Rotate_List.cpp
+CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj: ../Ex61_Rotate_List.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex61_Rotate_List.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex61_Rotate_List.cpp
 
-CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.i"
-	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex_61_Rotate_List.cpp > CMakeFiles\BastiLeetCode.dir\Ex_61_Rotate_List.cpp.i
+CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex61_Rotate_List.cpp > CMakeFiles\BastiLeetCode.dir\Ex61_Rotate_List.cpp.i
 
-CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.s"
-	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex_61_Rotate_List.cpp -o CMakeFiles\BastiLeetCode.dir\Ex_61_Rotate_List.cpp.s
+CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex61_Rotate_List.cpp -o CMakeFiles\BastiLeetCode.dir\Ex61_Rotate_List.cpp.s
 
-CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj.requires:
+CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj.requires:
 
-.PHONY : CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj.requires
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj.requires
 
-CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj.provides.build
-.PHONY : CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj.provides
+CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj.provides
 
-CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj
+CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj
 
 
 CMakeFiles/BastiLeetCode.dir/Ex69_Sqrt_x.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
@@ -320,28 +320,28 @@ CMakeFiles/BastiLeetCode.dir/Ex93_Restore_IP_Addresses.cpp.obj.provides: CMakeFi
 CMakeFiles/BastiLeetCode.dir/Ex93_Restore_IP_Addresses.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex93_Restore_IP_Addresses.cpp.obj
 
 
-CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
-CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj: ../Ex_50_Pow_x_n.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj"
-	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex_50_Pow_x_n.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex_50_Pow_x_n.cpp
+CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj: ../Ex50_Pow_x_n.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex50_Pow_x_n.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex50_Pow_x_n.cpp
 
-CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.i"
-	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex_50_Pow_x_n.cpp > CMakeFiles\BastiLeetCode.dir\Ex_50_Pow_x_n.cpp.i
+CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex50_Pow_x_n.cpp > CMakeFiles\BastiLeetCode.dir\Ex50_Pow_x_n.cpp.i
 
-CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.s"
-	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex_50_Pow_x_n.cpp -o CMakeFiles\BastiLeetCode.dir\Ex_50_Pow_x_n.cpp.s
+CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex50_Pow_x_n.cpp -o CMakeFiles\BastiLeetCode.dir\Ex50_Pow_x_n.cpp.s
 
-CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj.requires:
+CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj.requires:
 
-.PHONY : CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj.requires
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj.requires
 
-CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj.provides.build
-.PHONY : CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj.provides
+CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj.provides
 
-CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj
+CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj
 
 
 CMakeFiles/BastiLeetCode.dir/Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
@@ -776,6 +776,78 @@ CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.obj.provides: 
 CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.obj
 
 
+CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj: ../Ex77_Combinations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex77_Combinations.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex77_Combinations.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex77_Combinations.cpp > CMakeFiles\BastiLeetCode.dir\Ex77_Combinations.cpp.i
+
+CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex77_Combinations.cpp -o CMakeFiles\BastiLeetCode.dir\Ex77_Combinations.cpp.s
+
+CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj.requires:
+
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj.requires
+
+CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj.provides
+
+CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj
+
+
+CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj: ../Ex120_Triangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex120_Triangle.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex120_Triangle.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex120_Triangle.cpp > CMakeFiles\BastiLeetCode.dir\Ex120_Triangle.cpp.i
+
+CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex120_Triangle.cpp -o CMakeFiles\BastiLeetCode.dir\Ex120_Triangle.cpp.s
+
+CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj.requires:
+
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj.requires
+
+CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj.provides
+
+CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj
+
+
+CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj: ../Ex129_Sum_Root_to_Leaf_Numbers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex129_Sum_Root_to_Leaf_Numbers.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex129_Sum_Root_to_Leaf_Numbers.cpp > CMakeFiles\BastiLeetCode.dir\Ex129_Sum_Root_to_Leaf_Numbers.cpp.i
+
+CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex129_Sum_Root_to_Leaf_Numbers.cpp -o CMakeFiles\BastiLeetCode.dir\Ex129_Sum_Root_to_Leaf_Numbers.cpp.s
+
+CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj.requires:
+
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj.requires
+
+CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj.provides
+
+CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj
+
+
 # Object files for target BastiLeetCode
 BastiLeetCode_OBJECTS = \
 "CMakeFiles/BastiLeetCode.dir/Ex22_Generate_Parentheses.cpp.obj" \
@@ -783,13 +855,13 @@ BastiLeetCode_OBJECTS = \
 "CMakeFiles/BastiLeetCode.dir/Ex55_Jump_Game.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex62_Unique_Paths.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex63_Unique_Paths_II.cpp.obj" \
-"CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex69_Sqrt_x.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex73_Set_Matrix_Zeroes.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex74_Search_a_2D_Matrix.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex66_Plus_One.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex93_Restore_IP_Addresses.cpp.obj" \
-"CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex91_Decode_Ways.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex100_Same_Tree.cpp.obj" \
@@ -807,7 +879,10 @@ BastiLeetCode_OBJECTS = \
 "CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex89_Gray_Code.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex56_Merge_Intervals.cpp.obj" \
-"CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.obj"
+"CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj"
 
 # External object files for target BastiLeetCode
 BastiLeetCode_EXTERNAL_OBJECTS =
@@ -817,13 +892,13 @@ BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex46_Permutations.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex55_Jump_Game.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex62_Unique_Paths.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex63_Unique_Paths_II.cpp.obj
-BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex69_Sqrt_x.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex73_Set_Matrix_Zeroes.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex74_Search_a_2D_Matrix.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex66_Plus_One.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex93_Restore_IP_Addresses.cpp.obj
-BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex91_Decode_Ways.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex100_Same_Tree.cpp.obj
@@ -842,11 +917,14 @@ BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex89_Gray_Code.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex56_Merge_Intervals.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/build.make
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/linklibs.rsp
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/objects1.rsp
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Linking CXX executable BastiLeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Linking CXX executable BastiLeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\BastiLeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -859,13 +937,13 @@ CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex46_Permuta
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex55_Jump_Game.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex62_Unique_Paths.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex63_Unique_Paths_II.cpp.obj.requires
-CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex69_Sqrt_x.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex73_Set_Matrix_Zeroes.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex74_Search_a_2D_Matrix.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex66_Plus_One.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex93_Restore_IP_Addresses.cpp.obj.requires
-CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex91_Decode_Ways.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex100_Same_Tree.cpp.obj.requires
@@ -884,6 +962,9 @@ CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex40_Combina
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex89_Gray_Code.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex56_Merge_Intervals.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj.requires
 
 .PHONY : CMakeFiles/BastiLeetCode.dir/requires
 

@@ -91,6 +91,7 @@ public:
     }
 };
 
+/*
 int main(){
     vector<int> a;
     a.push_back(1);
@@ -101,3 +102,4 @@ int main(){
     Solution solution = Solution();
     cout<<solution.canPartition(a);
 }
+*/

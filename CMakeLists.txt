@@ -9,13 +9,13 @@ add_executable(BastiLeetCode
         Ex55_Jump_Game.cpp
         Ex62_Unique_Paths.cpp
         Ex63_Unique_Paths_II.cpp
-        Ex_61_Rotate_List.cpp
+        Ex61_Rotate_List.cpp
         Ex69_Sqrt_x.cpp
         Ex73_Set_Matrix_Zeroes.cpp
         Ex74_Search_a_2D_Matrix.cpp
         Ex66_Plus_One.cpp
         Ex93_Restore_IP_Addresses.cpp
-        Ex_50_Pow_x_n.cpp
+        Ex50_Pow_x_n.cpp
         Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp
         Ex91_Decode_Ways.cpp
         Ex100_Same_Tree.cpp
@@ -27,9 +27,13 @@ add_executable(BastiLeetCode
         Ex88_Merge_Sorted_Array.cpp
         Ex104_Maximum_Depth_of_Binary_Tree.cpp
         Ex107_Binary_Tree_Level_Order_Traversal_II.cpp
-        Ex18_4Sum.cpp Ex31_Next_Permutation.cpp
+        Ex18_4Sum.cpp
+        Ex31_Next_Permutation.cpp
         Ex39_Combination_Sum.cpp
         Ex40_Combination_Sum_II.cpp
         Ex89_Gray_Code.cpp
         Ex56_Merge_Intervals.cpp
-        Ex416_Partition_Equal_Subset_Sum.cpp)
+        Ex416_Partition_Equal_Subset_Sum.cpp
+        Ex77_Combinations.cpp
+        Ex120_Triangle.cpp
+        Ex129_Sum_Root_to_Leaf_Numbers.cpp)

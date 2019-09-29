@@ -230,6 +230,60 @@ Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.s
 .PHONY : Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.s
 
+Ex120_Triangle.obj: Ex120_Triangle.cpp.obj
+
+.PHONY : Ex120_Triangle.obj
+
+# target to build an object file
+Ex120_Triangle.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj
+.PHONY : Ex120_Triangle.cpp.obj
+
+Ex120_Triangle.i: Ex120_Triangle.cpp.i
+
+.PHONY : Ex120_Triangle.i
+
+# target to preprocess a source file
+Ex120_Triangle.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.i
+.PHONY : Ex120_Triangle.cpp.i
+
+Ex120_Triangle.s: Ex120_Triangle.cpp.s
+
+.PHONY : Ex120_Triangle.s
+
+# target to generate assembly for a file
+Ex120_Triangle.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.s
+.PHONY : Ex120_Triangle.cpp.s
+
+Ex129_Sum_Root_to_Leaf_Numbers.obj: Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj
+
+.PHONY : Ex129_Sum_Root_to_Leaf_Numbers.obj
+
+# target to build an object file
+Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj
+.PHONY : Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj
+
+Ex129_Sum_Root_to_Leaf_Numbers.i: Ex129_Sum_Root_to_Leaf_Numbers.cpp.i
+
+.PHONY : Ex129_Sum_Root_to_Leaf_Numbers.i
+
+# target to preprocess a source file
+Ex129_Sum_Root_to_Leaf_Numbers.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.i
+.PHONY : Ex129_Sum_Root_to_Leaf_Numbers.cpp.i
+
+Ex129_Sum_Root_to_Leaf_Numbers.s: Ex129_Sum_Root_to_Leaf_Numbers.cpp.s
+
+.PHONY : Ex129_Sum_Root_to_Leaf_Numbers.s
+
+# target to generate assembly for a file
+Ex129_Sum_Root_to_Leaf_Numbers.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.s
+.PHONY : Ex129_Sum_Root_to_Leaf_Numbers.cpp.s
+
 Ex18_4Sum.obj: Ex18_4Sum.cpp.obj
 
 .PHONY : Ex18_4Sum.obj
@@ -419,6 +473,33 @@ Ex46_Permutations.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex46_Permutations.cpp.s
 .PHONY : Ex46_Permutations.cpp.s
 
+Ex50_Pow_x_n.obj: Ex50_Pow_x_n.cpp.obj
+
+.PHONY : Ex50_Pow_x_n.obj
+
+# target to build an object file
+Ex50_Pow_x_n.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj
+.PHONY : Ex50_Pow_x_n.cpp.obj
+
+Ex50_Pow_x_n.i: Ex50_Pow_x_n.cpp.i
+
+.PHONY : Ex50_Pow_x_n.i
+
+# target to preprocess a source file
+Ex50_Pow_x_n.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.i
+.PHONY : Ex50_Pow_x_n.cpp.i
+
+Ex50_Pow_x_n.s: Ex50_Pow_x_n.cpp.s
+
+.PHONY : Ex50_Pow_x_n.s
+
+# target to generate assembly for a file
+Ex50_Pow_x_n.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.s
+.PHONY : Ex50_Pow_x_n.cpp.s
+
 Ex53_Maximum_Subarray.obj: Ex53_Maximum_Subarray.cpp.obj
 
 .PHONY : Ex53_Maximum_Subarray.obj
@@ -499,6 +580,33 @@ Ex56_Merge_Intervals.s: Ex56_Merge_Intervals.cpp.s
 Ex56_Merge_Intervals.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex56_Merge_Intervals.cpp.s
 .PHONY : Ex56_Merge_Intervals.cpp.s
+
+Ex61_Rotate_List.obj: Ex61_Rotate_List.cpp.obj
+
+.PHONY : Ex61_Rotate_List.obj
+
+# target to build an object file
+Ex61_Rotate_List.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj
+.PHONY : Ex61_Rotate_List.cpp.obj
+
+Ex61_Rotate_List.i: Ex61_Rotate_List.cpp.i
+
+.PHONY : Ex61_Rotate_List.i
+
+# target to preprocess a source file
+Ex61_Rotate_List.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.i
+.PHONY : Ex61_Rotate_List.cpp.i
+
+Ex61_Rotate_List.s: Ex61_Rotate_List.cpp.s
+
+.PHONY : Ex61_Rotate_List.s
+
+# target to generate assembly for a file
+Ex61_Rotate_List.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.s
+.PHONY : Ex61_Rotate_List.cpp.s
 
 Ex62_Unique_Paths.obj: Ex62_Unique_Paths.cpp.obj
 
@@ -716,6 +824,33 @@ Ex74_Search_a_2D_Matrix.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex74_Search_a_2D_Matrix.cpp.s
 .PHONY : Ex74_Search_a_2D_Matrix.cpp.s
 
+Ex77_Combinations.obj: Ex77_Combinations.cpp.obj
+
+.PHONY : Ex77_Combinations.obj
+
+# target to build an object file
+Ex77_Combinations.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj
+.PHONY : Ex77_Combinations.cpp.obj
+
+Ex77_Combinations.i: Ex77_Combinations.cpp.i
+
+.PHONY : Ex77_Combinations.i
+
+# target to preprocess a source file
+Ex77_Combinations.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.i
+.PHONY : Ex77_Combinations.cpp.i
+
+Ex77_Combinations.s: Ex77_Combinations.cpp.s
+
+.PHONY : Ex77_Combinations.s
+
+# target to generate assembly for a file
+Ex77_Combinations.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.s
+.PHONY : Ex77_Combinations.cpp.s
+
 Ex80_Remove_Duplicates_from_Sorted_Array_II.obj: Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp.obj
 
 .PHONY : Ex80_Remove_Duplicates_from_Sorted_Array_II.obj
@@ -878,60 +1013,6 @@ Ex93_Restore_IP_Addresses.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex93_Restore_IP_Addresses.cpp.s
 .PHONY : Ex93_Restore_IP_Addresses.cpp.s
 
-Ex_50_Pow_x_n.obj: Ex_50_Pow_x_n.cpp.obj
-
-.PHONY : Ex_50_Pow_x_n.obj
-
-# target to build an object file
-Ex_50_Pow_x_n.cpp.obj:
-	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj
-.PHONY : Ex_50_Pow_x_n.cpp.obj
-
-Ex_50_Pow_x_n.i: Ex_50_Pow_x_n.cpp.i
-
-.PHONY : Ex_50_Pow_x_n.i
-
-# target to preprocess a source file
-Ex_50_Pow_x_n.cpp.i:
-	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.i
-.PHONY : Ex_50_Pow_x_n.cpp.i
-
-Ex_50_Pow_x_n.s: Ex_50_Pow_x_n.cpp.s
-
-.PHONY : Ex_50_Pow_x_n.s
-
-# target to generate assembly for a file
-Ex_50_Pow_x_n.cpp.s:
-	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.s
-.PHONY : Ex_50_Pow_x_n.cpp.s
-
-Ex_61_Rotate_List.obj: Ex_61_Rotate_List.cpp.obj
-
-.PHONY : Ex_61_Rotate_List.obj
-
-# target to build an object file
-Ex_61_Rotate_List.cpp.obj:
-	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj
-.PHONY : Ex_61_Rotate_List.cpp.obj
-
-Ex_61_Rotate_List.i: Ex_61_Rotate_List.cpp.i
-
-.PHONY : Ex_61_Rotate_List.i
-
-# target to preprocess a source file
-Ex_61_Rotate_List.cpp.i:
-	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.i
-.PHONY : Ex_61_Rotate_List.cpp.i
-
-Ex_61_Rotate_List.s: Ex_61_Rotate_List.cpp.s
-
-.PHONY : Ex_61_Rotate_List.s
-
-# target to generate assembly for a file
-Ex_61_Rotate_List.cpp.s:
-	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.s
-.PHONY : Ex_61_Rotate_List.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -953,6 +1034,12 @@ help:
 	@echo ... Ex107_Binary_Tree_Level_Order_Traversal_II.obj
 	@echo ... Ex107_Binary_Tree_Level_Order_Traversal_II.i
 	@echo ... Ex107_Binary_Tree_Level_Order_Traversal_II.s
+	@echo ... Ex120_Triangle.obj
+	@echo ... Ex120_Triangle.i
+	@echo ... Ex120_Triangle.s
+	@echo ... Ex129_Sum_Root_to_Leaf_Numbers.obj
+	@echo ... Ex129_Sum_Root_to_Leaf_Numbers.i
+	@echo ... Ex129_Sum_Root_to_Leaf_Numbers.s
 	@echo ... Ex18_4Sum.obj
 	@echo ... Ex18_4Sum.i
 	@echo ... Ex18_4Sum.s
@@ -974,6 +1061,9 @@ help:
 	@echo ... Ex46_Permutations.obj
 	@echo ... Ex46_Permutations.i
 	@echo ... Ex46_Permutations.s
+	@echo ... Ex50_Pow_x_n.obj
+	@echo ... Ex50_Pow_x_n.i
+	@echo ... Ex50_Pow_x_n.s
 	@echo ... Ex53_Maximum_Subarray.obj
 	@echo ... Ex53_Maximum_Subarray.i
 	@echo ... Ex53_Maximum_Subarray.s
@@ -983,6 +1073,9 @@ help:
 	@echo ... Ex56_Merge_Intervals.obj
 	@echo ... Ex56_Merge_Intervals.i
 	@echo ... Ex56_Merge_Intervals.s
+	@echo ... Ex61_Rotate_List.obj
+	@echo ... Ex61_Rotate_List.i
+	@echo ... Ex61_Rotate_List.s
 	@echo ... Ex62_Unique_Paths.obj
 	@echo ... Ex62_Unique_Paths.i
 	@echo ... Ex62_Unique_Paths.s
@@ -1007,6 +1100,9 @@ help:
 	@echo ... Ex74_Search_a_2D_Matrix.obj
 	@echo ... Ex74_Search_a_2D_Matrix.i
 	@echo ... Ex74_Search_a_2D_Matrix.s
+	@echo ... Ex77_Combinations.obj
+	@echo ... Ex77_Combinations.i
+	@echo ... Ex77_Combinations.s
 	@echo ... Ex80_Remove_Duplicates_from_Sorted_Array_II.obj
 	@echo ... Ex80_Remove_Duplicates_from_Sorted_Array_II.i
 	@echo ... Ex80_Remove_Duplicates_from_Sorted_Array_II.s
@@ -1025,12 +1121,6 @@ help:
 	@echo ... Ex93_Restore_IP_Addresses.obj
 	@echo ... Ex93_Restore_IP_Addresses.i
 	@echo ... Ex93_Restore_IP_Addresses.s
-	@echo ... Ex_50_Pow_x_n.obj
-	@echo ... Ex_50_Pow_x_n.i
-	@echo ... Ex_50_Pow_x_n.s
-	@echo ... Ex_61_Rotate_List.obj
-	@echo ... Ex_61_Rotate_List.i
-	@echo ... Ex_61_Rotate_List.s
 .PHONY : help
 
 

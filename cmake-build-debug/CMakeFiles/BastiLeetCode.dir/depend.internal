@@ -9,6 +9,10 @@ CMakeFiles/BastiLeetCode.dir/Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex104_Maximum_Depth_of_Binary_Tree.cpp
 CMakeFiles/BastiLeetCode.dir/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp
+CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.obj
+ C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex120_Triangle.cpp
+CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj
+ C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex129_Sum_Root_to_Leaf_Numbers.cpp
 CMakeFiles/BastiLeetCode.dir/Ex18_4Sum.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex18_4Sum.cpp
 CMakeFiles/BastiLeetCode.dir/Ex22_Generate_Parentheses.cpp.obj
@@ -23,12 +27,16 @@ CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex416_Partition_Equal_Subset_Sum.cpp
 CMakeFiles/BastiLeetCode.dir/Ex46_Permutations.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex46_Permutations.cpp
+CMakeFiles/BastiLeetCode.dir/Ex50_Pow_x_n.cpp.obj
+ C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex50_Pow_x_n.cpp
 CMakeFiles/BastiLeetCode.dir/Ex53_Maximum_Subarray.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex53_Maximum_Subarray.cpp
 CMakeFiles/BastiLeetCode.dir/Ex55_Jump_Game.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex55_Jump_Game.cpp
 CMakeFiles/BastiLeetCode.dir/Ex56_Merge_Intervals.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex56_Merge_Intervals.cpp
+CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj
+ C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex61_Rotate_List.cpp
 CMakeFiles/BastiLeetCode.dir/Ex62_Unique_Paths.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex62_Unique_Paths.cpp
 CMakeFiles/BastiLeetCode.dir/Ex63_Unique_Paths_II.cpp.obj
@@ -45,6 +53,8 @@ CMakeFiles/BastiLeetCode.dir/Ex73_Set_Matrix_Zeroes.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex73_Set_Matrix_Zeroes.cpp
 CMakeFiles/BastiLeetCode.dir/Ex74_Search_a_2D_Matrix.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex74_Search_a_2D_Matrix.cpp
+CMakeFiles/BastiLeetCode.dir/Ex77_Combinations.cpp.obj
+ C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex77_Combinations.cpp
 CMakeFiles/BastiLeetCode.dir/Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp
 CMakeFiles/BastiLeetCode.dir/Ex83_Remove_Duplicates_from_Sorted_List.cpp.obj
@@ -57,7 +67,3 @@ CMakeFiles/BastiLeetCode.dir/Ex91_Decode_Ways.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex91_Decode_Ways.cpp
 CMakeFiles/BastiLeetCode.dir/Ex93_Restore_IP_Addresses.cpp.obj
  C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex93_Restore_IP_Addresses.cpp
-CMakeFiles/BastiLeetCode.dir/Ex_50_Pow_x_n.cpp.obj
- C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex_50_Pow_x_n.cpp
-CMakeFiles/BastiLeetCode.dir/Ex_61_Rotate_List.cpp.obj
- C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex_61_Rotate_List.cpp

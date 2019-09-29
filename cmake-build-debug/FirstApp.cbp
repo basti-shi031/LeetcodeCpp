@@ -94,6 +94,12 @@
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp">
 			<Option target="BastiLeetCode"/>
 		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex120_Triangle.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex129_Sum_Root_to_Leaf_Numbers.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex18_4Sum.cpp">
 			<Option target="BastiLeetCode"/>
 		</Unit>
@@ -115,6 +121,9 @@
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex46_Permutations.cpp">
 			<Option target="BastiLeetCode"/>
 		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex50_Pow_x_n.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex53_Maximum_Subarray.cpp">
 			<Option target="BastiLeetCode"/>
 		</Unit>
@@ -122,6 +131,9 @@
 			<Option target="BastiLeetCode"/>
 		</Unit>
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex56_Merge_Intervals.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex61_Rotate_List.cpp">
 			<Option target="BastiLeetCode"/>
 		</Unit>
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex62_Unique_Paths.cpp">
@@ -148,6 +160,9 @@
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex74_Search_a_2D_Matrix.cpp">
 			<Option target="BastiLeetCode"/>
 		</Unit>
+		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex77_Combinations.cpp">
+			<Option target="BastiLeetCode"/>
+		</Unit>
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp">
 			<Option target="BastiLeetCode"/>
 		</Unit>
@@ -164,12 +179,6 @@
 			<Option target="BastiLeetCode"/>
 		</Unit>
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex93_Restore_IP_Addresses.cpp">
-			<Option target="BastiLeetCode"/>
-		</Unit>
-		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex_50_Pow_x_n.cpp">
-			<Option target="BastiLeetCode"/>
-		</Unit>
-		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex_61_Rotate_List.cpp">
 			<Option target="BastiLeetCode"/>
 		</Unit>
 		<Unit filename="C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/CMakeLists.txt">
