@@ -36,4 +36,10 @@ add_executable(BastiLeetCode
         Ex416_Partition_Equal_Subset_Sum.cpp
         Ex77_Combinations.cpp
         Ex120_Triangle.cpp
-        Ex129_Sum_Root_to_Leaf_Numbers.cpp)
+        Ex129_Sum_Root_to_Leaf_Numbers.cpp
+        Ex121_2.cpp
+        Ex137_Single_Number_II.cpp
+        Ex139_Word_Break.cpp
+        Ex200_Number_of_Islands.cpp
+        Ex198_House_Robber.cpp
+        Ex202_Happy_Number.cpp)

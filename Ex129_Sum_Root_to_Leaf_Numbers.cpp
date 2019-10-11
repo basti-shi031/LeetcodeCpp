@@ -28,6 +28,7 @@ public:
     }
 };
 
+/*
 int main() {
     TreeNode a(2);
     TreeNode b(3);
@@ -38,4 +39,4 @@ int main() {
 
     Solution solution = Solution();
     cout<<solution.sumNumbers(&a);
-}
+}*/

@@ -257,6 +257,33 @@ Ex120_Triangle.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex120_Triangle.cpp.s
 .PHONY : Ex120_Triangle.cpp.s
 
+Ex121_2.obj: Ex121_2.cpp.obj
+
+.PHONY : Ex121_2.obj
+
+# target to build an object file
+Ex121_2.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex121_2.cpp.obj
+.PHONY : Ex121_2.cpp.obj
+
+Ex121_2.i: Ex121_2.cpp.i
+
+.PHONY : Ex121_2.i
+
+# target to preprocess a source file
+Ex121_2.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex121_2.cpp.i
+.PHONY : Ex121_2.cpp.i
+
+Ex121_2.s: Ex121_2.cpp.s
+
+.PHONY : Ex121_2.s
+
+# target to generate assembly for a file
+Ex121_2.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex121_2.cpp.s
+.PHONY : Ex121_2.cpp.s
+
 Ex129_Sum_Root_to_Leaf_Numbers.obj: Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj
 
 .PHONY : Ex129_Sum_Root_to_Leaf_Numbers.obj
@@ -284,6 +311,60 @@ Ex129_Sum_Root_to_Leaf_Numbers.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex129_Sum_Root_to_Leaf_Numbers.cpp.s
 .PHONY : Ex129_Sum_Root_to_Leaf_Numbers.cpp.s
 
+Ex137_Single_Number_II.obj: Ex137_Single_Number_II.cpp.obj
+
+.PHONY : Ex137_Single_Number_II.obj
+
+# target to build an object file
+Ex137_Single_Number_II.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex137_Single_Number_II.cpp.obj
+.PHONY : Ex137_Single_Number_II.cpp.obj
+
+Ex137_Single_Number_II.i: Ex137_Single_Number_II.cpp.i
+
+.PHONY : Ex137_Single_Number_II.i
+
+# target to preprocess a source file
+Ex137_Single_Number_II.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex137_Single_Number_II.cpp.i
+.PHONY : Ex137_Single_Number_II.cpp.i
+
+Ex137_Single_Number_II.s: Ex137_Single_Number_II.cpp.s
+
+.PHONY : Ex137_Single_Number_II.s
+
+# target to generate assembly for a file
+Ex137_Single_Number_II.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex137_Single_Number_II.cpp.s
+.PHONY : Ex137_Single_Number_II.cpp.s
+
+Ex139_Word_Break.obj: Ex139_Word_Break.cpp.obj
+
+.PHONY : Ex139_Word_Break.obj
+
+# target to build an object file
+Ex139_Word_Break.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex139_Word_Break.cpp.obj
+.PHONY : Ex139_Word_Break.cpp.obj
+
+Ex139_Word_Break.i: Ex139_Word_Break.cpp.i
+
+.PHONY : Ex139_Word_Break.i
+
+# target to preprocess a source file
+Ex139_Word_Break.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex139_Word_Break.cpp.i
+.PHONY : Ex139_Word_Break.cpp.i
+
+Ex139_Word_Break.s: Ex139_Word_Break.cpp.s
+
+.PHONY : Ex139_Word_Break.s
+
+# target to generate assembly for a file
+Ex139_Word_Break.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex139_Word_Break.cpp.s
+.PHONY : Ex139_Word_Break.cpp.s
+
 Ex18_4Sum.obj: Ex18_4Sum.cpp.obj
 
 .PHONY : Ex18_4Sum.obj
@@ -310,6 +391,87 @@ Ex18_4Sum.s: Ex18_4Sum.cpp.s
 Ex18_4Sum.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex18_4Sum.cpp.s
 .PHONY : Ex18_4Sum.cpp.s
+
+Ex198_House_Robber.obj: Ex198_House_Robber.cpp.obj
+
+.PHONY : Ex198_House_Robber.obj
+
+# target to build an object file
+Ex198_House_Robber.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex198_House_Robber.cpp.obj
+.PHONY : Ex198_House_Robber.cpp.obj
+
+Ex198_House_Robber.i: Ex198_House_Robber.cpp.i
+
+.PHONY : Ex198_House_Robber.i
+
+# target to preprocess a source file
+Ex198_House_Robber.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex198_House_Robber.cpp.i
+.PHONY : Ex198_House_Robber.cpp.i
+
+Ex198_House_Robber.s: Ex198_House_Robber.cpp.s
+
+.PHONY : Ex198_House_Robber.s
+
+# target to generate assembly for a file
+Ex198_House_Robber.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex198_House_Robber.cpp.s
+.PHONY : Ex198_House_Robber.cpp.s
+
+Ex200_Number_of_Islands.obj: Ex200_Number_of_Islands.cpp.obj
+
+.PHONY : Ex200_Number_of_Islands.obj
+
+# target to build an object file
+Ex200_Number_of_Islands.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex200_Number_of_Islands.cpp.obj
+.PHONY : Ex200_Number_of_Islands.cpp.obj
+
+Ex200_Number_of_Islands.i: Ex200_Number_of_Islands.cpp.i
+
+.PHONY : Ex200_Number_of_Islands.i
+
+# target to preprocess a source file
+Ex200_Number_of_Islands.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex200_Number_of_Islands.cpp.i
+.PHONY : Ex200_Number_of_Islands.cpp.i
+
+Ex200_Number_of_Islands.s: Ex200_Number_of_Islands.cpp.s
+
+.PHONY : Ex200_Number_of_Islands.s
+
+# target to generate assembly for a file
+Ex200_Number_of_Islands.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex200_Number_of_Islands.cpp.s
+.PHONY : Ex200_Number_of_Islands.cpp.s
+
+Ex202_Happy_Number.obj: Ex202_Happy_Number.cpp.obj
+
+.PHONY : Ex202_Happy_Number.obj
+
+# target to build an object file
+Ex202_Happy_Number.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex202_Happy_Number.cpp.obj
+.PHONY : Ex202_Happy_Number.cpp.obj
+
+Ex202_Happy_Number.i: Ex202_Happy_Number.cpp.i
+
+.PHONY : Ex202_Happy_Number.i
+
+# target to preprocess a source file
+Ex202_Happy_Number.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex202_Happy_Number.cpp.i
+.PHONY : Ex202_Happy_Number.cpp.i
+
+Ex202_Happy_Number.s: Ex202_Happy_Number.cpp.s
+
+.PHONY : Ex202_Happy_Number.s
+
+# target to generate assembly for a file
+Ex202_Happy_Number.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex202_Happy_Number.cpp.s
+.PHONY : Ex202_Happy_Number.cpp.s
 
 Ex22_Generate_Parentheses.obj: Ex22_Generate_Parentheses.cpp.obj
 
@@ -1037,12 +1199,30 @@ help:
 	@echo ... Ex120_Triangle.obj
 	@echo ... Ex120_Triangle.i
 	@echo ... Ex120_Triangle.s
+	@echo ... Ex121_2.obj
+	@echo ... Ex121_2.i
+	@echo ... Ex121_2.s
 	@echo ... Ex129_Sum_Root_to_Leaf_Numbers.obj
 	@echo ... Ex129_Sum_Root_to_Leaf_Numbers.i
 	@echo ... Ex129_Sum_Root_to_Leaf_Numbers.s
+	@echo ... Ex137_Single_Number_II.obj
+	@echo ... Ex137_Single_Number_II.i
+	@echo ... Ex137_Single_Number_II.s
+	@echo ... Ex139_Word_Break.obj
+	@echo ... Ex139_Word_Break.i
+	@echo ... Ex139_Word_Break.s
 	@echo ... Ex18_4Sum.obj
 	@echo ... Ex18_4Sum.i
 	@echo ... Ex18_4Sum.s
+	@echo ... Ex198_House_Robber.obj
+	@echo ... Ex198_House_Robber.i
+	@echo ... Ex198_House_Robber.s
+	@echo ... Ex200_Number_of_Islands.obj
+	@echo ... Ex200_Number_of_Islands.i
+	@echo ... Ex200_Number_of_Islands.s
+	@echo ... Ex202_Happy_Number.obj
+	@echo ... Ex202_Happy_Number.i
+	@echo ... Ex202_Happy_Number.s
 	@echo ... Ex22_Generate_Parentheses.obj
 	@echo ... Ex22_Generate_Parentheses.i
 	@echo ... Ex22_Generate_Parentheses.s
