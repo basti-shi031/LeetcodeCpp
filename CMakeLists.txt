@@ -42,4 +42,9 @@ add_executable(BastiLeetCode
         Ex139_Word_Break.cpp
         Ex200_Number_of_Islands.cpp
         Ex198_House_Robber.cpp
-        Ex202_Happy_Number.cpp)
+        Ex202_Happy_Number.cpp
+        Ex287_Find_the_Duplicate_Number.cpp
+        Ex41_First_Missing_Positive.cpp
+        Ex60_Permutation_Sequence.cpp
+        Ex90_Subsets_II.cpp
+        Ex91_Decode_Ways.cpp)

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Ex263_Ugly_Number.cpp" line="12" />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
       <config projectName="FirstApp" targetName="BastiLeetCode" />
@@ -12,17 +15,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24286790-9fd0-408e-a66d-a462afca6f39" name="Default" comment="update">
-      <change afterPath="$PROJECT_DIR$/Ex121_2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex137_Single_Number_II.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex139_Word_Break.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex143_Reorder_List.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex155_Min_Stack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex198_House_Robber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex200_Number_of_Islands.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex202_Happy_Number.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex221_Maximal_Square.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex238_Product_of_Array_Except_Self.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex263_Ugly_Number.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex287_Find_the_Duplicate_Number.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex289_Game_of_Life.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex300_Longest_Increasing_Subsequence.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex41_First_Missing_Positive.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex60_Permutation_Sequence.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex78_Subsets.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex90_Subsets_II.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex129_Sum_Root_to_Leaf_Numbers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ex129_Sum_Root_to_Leaf_Numbers.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex61_Rotate_List.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ex61_Rotate_List.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex77_Combinations.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ex77_Combinations.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex79_Word_Search.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ex79_Word_Search.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex91_Decode_Ways.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ex91_Decode_Ways.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BastiLeetCode.dir/build.make" afterDir="false" />
@@ -47,13 +55,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ex202_Happy_Number.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ex202_Happy_Number.cpp">
+      <file leaf-file-name="Ex79_Word_Search.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ex79_Word_Search.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="36" selection-start-line="35" selection-end-line="41" />
+            <state relative-caret-position="405">
+              <caret line="33" column="24" selection-end-line="46" selection-end-column="2" />
               <folding>
-                <element signature="e#45#64#0" expanded="true" />
+                <element signature="e#43#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ex91_Decode_Ways.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ex91_Decode_Ways.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="11" selection-start-line="11" selection-end-line="71" selection-end-column="2" />
+              <folding>
+                <element signature="e#44#61#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,6 +93,7 @@
       <find>int main</find>
       <find>Ex</find>
       <find>cout</find>
+      <find>char</find>
     </findStrings>
     <replaceStrings>
       <replace>-&gt;next</replace>
@@ -84,20 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Ex64_Minimum_Path_Sum.cpp" />
-        <option value="$PROJECT_DIR$/Ex74_Search_a_2D_Matrix.cpp" />
-        <option value="$PROJECT_DIR$/Ex86_Partition_List.cpp" />
-        <option value="$PROJECT_DIR$/Ex66_Plus_One.cpp" />
-        <option value="$PROJECT_DIR$/Ex73_Set_Matrix_Zeroes.cpp" />
-        <option value="$PROJECT_DIR$/Ex93_Restore_IP_Addresses.cpp" />
-        <option value="$PROJECT_DIR$/Ex_50_Pow_x_n.cpp" />
-        <option value="$PROJECT_DIR$/Ex79_Word_Search.cpp" />
-        <option value="$PROJECT_DIR$/Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp" />
-        <option value="$PROJECT_DIR$/Ex91_Decode_Ways.cpp" />
-        <option value="$PROJECT_DIR$/Ex100_Same_Tree.cpp" />
-        <option value="$PROJECT_DIR$/Ex101_Symmetric_Tree.cpp" />
-        <option value="$PROJECT_DIR$/Ex53_Maximum_Subarray.cpp" />
-        <option value="$PROJECT_DIR$/Ex54_Spiral_Matrix.cpp" />
         <option value="$PROJECT_DIR$/Ex67_Add_Binary.cpp" />
         <option value="$PROJECT_DIR$/Ex70_Climbing_Stairs.cpp" />
         <option value="$PROJECT_DIR$/Ex83_Remove_Duplicates_from_Sorted_List.cpp" />
@@ -121,7 +128,6 @@
         <option value="$PROJECT_DIR$/Ex1049_Last_Stone_Weight_II.cpp" />
         <option value="$PROJECT_DIR$/Ex416_Partition_Equal_Subset_Sum.cpp" />
         <option value="$PROJECT_DIR$/Ex22_Generate_Parentheses.cpp" />
-        <option value="$PROJECT_DIR$/Ex77_Combinations.cpp" />
         <option value="$PROJECT_DIR$/Ex120_Triangle.cpp" />
         <option value="$PROJECT_DIR$/Ex121_2_Bes_ Time_to_Buy_and_Sell_Stock.cpp" />
         <option value="$PROJECT_DIR$/Ex129_Sum_Root_to_Leaf_Numbers.cpp" />
@@ -132,9 +138,24 @@
         <option value="$PROJECT_DIR$/Ex139_Word_Break.cpp" />
         <option value="$PROJECT_DIR$/Ex198_House_Robber .cpp" />
         <option value="$PROJECT_DIR$/Ex200_Number_of_Islands.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Ex198_House_Robber.cpp" />
         <option value="$PROJECT_DIR$/Ex202_Happy_Number.cpp" />
+        <option value="$PROJECT_DIR$/Ex300_Longest_Increasing_Subsequence.cpp" />
+        <option value="$PROJECT_DIR$/Ex289_Game_of_Life.cpp" />
+        <option value="$PROJECT_DIR$/Ex221_Maximal_Square.cpp" />
+        <option value="$PROJECT_DIR$/Ex287_Find_the_Duplicate_Number.c" />
+        <option value="$PROJECT_DIR$/Ex238_Product_of_Array_Except_Self.cpp" />
+        <option value="$PROJECT_DIR$/Ex263_Ugly_Number.cpp" />
+        <option value="$PROJECT_DIR$/Ex287_Find_the_Duplicate_Number.cpp" />
+        <option value="$PROJECT_DIR$/Ex41_First_Missing_Positive.cpp" />
+        <option value="$PROJECT_DIR$/Ex60_Permutation_Sequence.cpp" />
+        <option value="$PROJECT_DIR$/Ex61_Rotate_List.cpp" />
+        <option value="$PROJECT_DIR$/Ex77_Combinations.cpp" />
+        <option value="$PROJECT_DIR$/Ex78_Subsets.cpp" />
+        <option value="$PROJECT_DIR$/Ex79_Word_Search.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Ex90_Subsets_II.cpp" />
+        <option value="$PROJECT_DIR$/Ex91_Decode_Ways.cpp" />
       </list>
     </option>
   </component>
@@ -149,8 +170,8 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-15" />
+    <option name="y" value="97" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -159,7 +180,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,6 +191,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,7 +200,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -241,7 +262,15 @@
       <workItem from="1569493843167" duration="6010000" />
       <workItem from="1569555145067" duration="18850000" />
       <workItem from="1570584979313" duration="12396000" />
-      <workItem from="1570670747102" duration="7277000" />
+      <workItem from="1570670747102" duration="15295000" />
+      <workItem from="1571198472782" duration="1197000" />
+      <workItem from="1571229655213" duration="2254000" />
+      <workItem from="1571655886702" duration="4810000" />
+      <workItem from="1573028081074" duration="12285000" />
+      <workItem from="1573089665950" duration="7518000" />
+      <workItem from="1573694327834" duration="2272000" />
+      <workItem from="1573717050534" duration="5851000" />
+      <workItem from="1573732376131" duration="4491000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1529825074706</created>
@@ -324,7 +353,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175287000" />
+    <option name="totallyTimeSpent" value="223983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -332,15 +361,15 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29114583" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.80104166" weight="0.4020408" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.7348958" weight="0.37857142" />
       <window_info anchor="bottom" id="CMake" order="11" sideWeight="0.49635416" weight="0.24285714" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4953125" side_tool="true" visible="true" weight="0.28061223" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5203125" side_tool="true" visible="true" weight="0.16734694" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5046875" visible="true" weight="0.28061223" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4796875" visible="true" weight="0.16734694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.46041667" weight="0.20408164" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4203125" weight="0.22857143" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -379,91 +408,10 @@
           <option name="timeStamp" value="108" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="122" />
+      <option name="time" value="174" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ex54_Spiral_Matrix.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="55" column="2" lean-forward="true" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex101_Symmetric_Tree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex8_String_to_Integer_atoi.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex70_Climbing_Stairs.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex83_Remove_Duplicates_from_Sorted_List.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="933">
-          <caret line="40" column="2" selection-start-line="15" selection-end-line="40" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex100_Same_Tree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex88_Merge_Sorted_Array.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" selection-start-line="27" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex119_Pascal's_Triangle_II.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex_118._Pascal's_Triangle.cpp" />
-    <entry file="file://$PROJECT_DIR$/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex112_Path_Sum.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="20" selection-start-line="20" selection-end-line="31" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex53_Maximum_Subarray.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex104_Maximum_Depth_of_Binary_Tree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="48" selection-start-line="47" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ex67_Add_Binary.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -502,13 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/cs/clion/MinGW/lib/gcc/mingw32/6.3.0/include/c++/ext/new_allocator.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/cs/clion/MinGW/lib/gcc/mingw32/6.3.0/include/c++/ext/alloc_traits.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -530,9 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="53" lean-forward="true" selection-start-line="52" selection-end-line="77" />
-          <folding>
-            <element signature="e#45#64#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -541,9 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="38" selection-start-line="37" selection-end-line="47" />
-          <folding>
-            <element signature="e#43#62#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -573,9 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="685">
           <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
-          <folding>
-            <element signature="e#44#63#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -583,9 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#44#63#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -594,16 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
           <caret line="39" selection-start-line="38" selection-end-line="45" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex77_Combinations.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="69" selection-start-line="68" selection-end-line="80" />
         </state>
       </provider>
     </entry>
@@ -611,9 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1884">
           <caret line="91" selection-start-line="91" selection-end-line="91" />
-          <folding>
-            <element signature="e#44#63#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,9 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-458">
           <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="e#44#61#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,9 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="39" selection-start-line="38" selection-end-line="51" />
-          <folding>
-            <element signature="e#44#63#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -683,9 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="34" selection-start-line="33" selection-end-line="43" />
-          <folding>
-            <element signature="e#44#63#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,16 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
           <caret line="58" selection-start-line="57" selection-end-line="66" />
-          <folding>
-            <element signature="e#43#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -734,9 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="37" lean-forward="true" selection-start-line="36" selection-end-line="48" />
-          <folding>
-            <element signature="e#45#62#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,21 +638,157 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-425">
           <caret line="56" selection-start-line="55" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex300_Longest_Increasing_Subsequence.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex289_Game_of_Life.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="35" column="62" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex221_Maximal_Square.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex202_Happy_Number.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex238_Product_of_Array_Except_Self.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex263_Ugly_Number.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="24" column="25" selection-start-line="8" selection-end-line="38" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex287_Find_the_Duplicate_Number.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="29" selection-start-line="28" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/cs/clion/MinGW/lib/gcc/mingw32/6.3.0/include/c++/ext/new_allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3213">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex41_First_Missing_Positive.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="56" column="1" selection-start-line="45" selection-end-line="57" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex61_Rotate_List.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="119" lean-forward="true" selection-start-line="118" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex60_Permutation_Sequence.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex77_Combinations.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex78_Subsets.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex79_Word_Search.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="33" column="24" selection-end-line="46" selection-end-column="2" />
+          <folding>
+            <element signature="e#43#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex90_Subsets_II.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="52" selection-start-line="51" selection-end-line="72" />
           <folding>
             <element signature="e#45#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ex202_Happy_Number.cpp">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="36" selection-start-line="35" selection-end-line="41" />
+        <state relative-caret-position="723">
+          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex91_Decode_Ways.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="11" selection-start-line="11" selection-end-line="71" selection-end-column="2" />
           <folding>
-            <element signature="e#45#64#0" expanded="true" />
+            <element signature="e#44#61#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

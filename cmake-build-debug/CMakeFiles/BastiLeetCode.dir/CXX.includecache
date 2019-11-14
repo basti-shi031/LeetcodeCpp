@@ -114,6 +114,16 @@ vector
 string
 -
 
+C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex287_Find_the_Duplicate_Number.cpp
+vector
+-
+iostream
+-
+set
+-
+algorithm
+-
+
 C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex31_Next_Permutation.cpp
 iostream
 -
@@ -148,6 +158,12 @@ iostream
 vector
 -
 math.h
+-
+
+C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex41_First_Missing_Positive.cpp
+iostream
+-
+vector
 -
 
 C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex46_Permutations.cpp
@@ -188,8 +204,22 @@ vector
 algorithm
 -
 
+C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex60_Permutation_Sequence.cpp
+iostream
+-
+math.h
+-
+iostream
+-
+string
+-
+vector
+-
+
 C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex61_Rotate_List.cpp
 iostream
+-
+vector
 -
 
 C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex62_Unique_Paths.cpp
@@ -264,12 +294,22 @@ vector
 math.h
 -
 
+C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex90_Subsets_II.cpp
+vector
+-
+iostream
+-
+algorithm
+-
+
 C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex91_Decode_Ways.cpp
 string
 -
 vector
 -
 iostream
+-
+map
 -
 
 C:/Users/Basti031/CLionProjects/BastiLeetcodeCpp/Ex93_Restore_IP_Addresses.cpp

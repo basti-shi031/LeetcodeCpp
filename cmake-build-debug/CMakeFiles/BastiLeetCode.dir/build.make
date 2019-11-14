@@ -992,6 +992,102 @@ CMakeFiles/BastiLeetCode.dir/Ex202_Happy_Number.cpp.obj.provides: CMakeFiles/Bas
 CMakeFiles/BastiLeetCode.dir/Ex202_Happy_Number.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex202_Happy_Number.cpp.obj
 
 
+CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj: ../Ex287_Find_the_Duplicate_Number.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex287_Find_the_Duplicate_Number.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex287_Find_the_Duplicate_Number.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex287_Find_the_Duplicate_Number.cpp > CMakeFiles\BastiLeetCode.dir\Ex287_Find_the_Duplicate_Number.cpp.i
+
+CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex287_Find_the_Duplicate_Number.cpp -o CMakeFiles\BastiLeetCode.dir\Ex287_Find_the_Duplicate_Number.cpp.s
+
+CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj.requires:
+
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj.requires
+
+CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj.provides
+
+CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj
+
+
+CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj: ../Ex41_First_Missing_Positive.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex41_First_Missing_Positive.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex41_First_Missing_Positive.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex41_First_Missing_Positive.cpp > CMakeFiles\BastiLeetCode.dir\Ex41_First_Missing_Positive.cpp.i
+
+CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex41_First_Missing_Positive.cpp -o CMakeFiles\BastiLeetCode.dir\Ex41_First_Missing_Positive.cpp.s
+
+CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj.requires:
+
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj.requires
+
+CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj.provides
+
+CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj
+
+
+CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj: ../Ex60_Permutation_Sequence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex60_Permutation_Sequence.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex60_Permutation_Sequence.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex60_Permutation_Sequence.cpp > CMakeFiles\BastiLeetCode.dir\Ex60_Permutation_Sequence.cpp.i
+
+CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex60_Permutation_Sequence.cpp -o CMakeFiles\BastiLeetCode.dir\Ex60_Permutation_Sequence.cpp.s
+
+CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj.requires:
+
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj.requires
+
+CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj.provides
+
+CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj
+
+
+CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj: CMakeFiles/BastiLeetCode.dir/flags.make
+CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj: ../Ex90_Subsets_II.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj"
+	C:\cs\clion\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BastiLeetCode.dir\Ex90_Subsets_II.cpp.obj -c C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex90_Subsets_II.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.i"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex90_Subsets_II.cpp > CMakeFiles\BastiLeetCode.dir\Ex90_Subsets_II.cpp.i
+
+CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.s"
+	C:\cs\clion\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\Ex90_Subsets_II.cpp -o CMakeFiles\BastiLeetCode.dir\Ex90_Subsets_II.cpp.s
+
+CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj.requires:
+
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj.requires
+
+CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj.provides: CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj.provides.build
+.PHONY : CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj.provides
+
+CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj.provides.build: CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj
+
+
 # Object files for target BastiLeetCode
 BastiLeetCode_OBJECTS = \
 "CMakeFiles/BastiLeetCode.dir/Ex22_Generate_Parentheses.cpp.obj" \
@@ -1032,7 +1128,11 @@ BastiLeetCode_OBJECTS = \
 "CMakeFiles/BastiLeetCode.dir/Ex139_Word_Break.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex200_Number_of_Islands.cpp.obj" \
 "CMakeFiles/BastiLeetCode.dir/Ex198_House_Robber.cpp.obj" \
-"CMakeFiles/BastiLeetCode.dir/Ex202_Happy_Number.cpp.obj"
+"CMakeFiles/BastiLeetCode.dir/Ex202_Happy_Number.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj" \
+"CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj"
 
 # External object files for target BastiLeetCode
 BastiLeetCode_EXTERNAL_OBJECTS =
@@ -1076,11 +1176,15 @@ BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex139_Word_Break.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex200_Number_of_Islands.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex198_House_Robber.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex202_Happy_Number.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj
+BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/build.make
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/linklibs.rsp
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/objects1.rsp
 BastiLeetCode.exe: CMakeFiles/BastiLeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX executable BastiLeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Basti031\CLionProjects\BastiLeetcodeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Linking CXX executable BastiLeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\BastiLeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1127,6 +1231,10 @@ CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex139_Word_B
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex200_Number_of_Islands.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex198_House_Robber.cpp.obj.requires
 CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex202_Happy_Number.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj.requires
+CMakeFiles/BastiLeetCode.dir/requires: CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj.requires
 
 .PHONY : CMakeFiles/BastiLeetCode.dir/requires
 

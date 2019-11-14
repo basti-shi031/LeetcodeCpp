@@ -5,48 +5,78 @@
 #include <string>
 #include<vector>
 #include<iostream>
+#include <map>
 
 using namespace std;
 
 class Solution {
+
+    map<string, int> maps;
+
 public:
     int numDecodings(string s) {
 
-        vector<int> v;
+        if (s.length() == 0) {
+            return 1;
+        }
 
-        int cnt = 0;
-        int size = s.length();
-        if (size == 0) {
-            return 0;
-        }
-        if (size == 1) {
-            return s[0] == '0' ? 0 : 1;
-        }
-        v.push_back(0);
-        int a = s[size-1]-'0'+(s[size-2]-'0')*10;
-        if (s[size-1] == '0') {
-            v.push_back(0);
-        } else {
-            v.push_back(1);
-        }
-        if (s[size-1] == '0' && s[size-2] == '0') {
-            v.push_back(0);
-        } else if ((s[size-1] == '0' && s[size-2] != '0')||(a>26||a<10)) {
-            v.push_back(1);
-        } else {
-            v.push_back(2);
-        }
-        for (int i = 3; i <= size; ++i) {
-            int ge = s[size-i+1] - '0';
-            int shi = s[size-i] - '0';
-            int num = ge + shi * 10;
-            if (num >= 1 && num <= 26) {
-                v.push_back(v[i - 1] + v[i - 2]);
+        if (s.length() == 1) {
+            if (s.at(0) == '0') {
+                return 0;
             } else {
-                v.push_back(v[i - 1]);
+                return 1;
             }
         }
-        return v[size];
+
+        char c1 = s.at(0);
+        char c2 = s.at(1);
+
+        int i1 = c1 - '0';
+        int i2 = i1 * 10 + c2 - '0';
+
+        int flag1 = 0;
+        int flag12 = 0;
+        if (i1 >= 1 && i1 <= 26) {
+            flag1 = 1;
+        }
+        if (i2 >= 1 && i2 <= 26 && i1 != 0) {
+            flag12 = 1;
+        }
+
+        int result1 = 0;
+        int result12 = 0;
+
+        if (flag1 == 1) {
+            string temp_s1 = s.substr(1, s.length() - 1);
+            if (maps.find(temp_s1) != maps.end()) {
+                result1 = maps[temp_s1];
+            } else {
+                result1 = numDecodings(temp_s1);
+            }
+            maps[temp_s1] = result1;
+
+        }
+        if (flag12 == 1) {
+            string temp_s12 = s.substr(2, s.length() - 2);
+            if (maps.find(temp_s12) != maps.end()) {
+                result12 = maps[temp_s12];
+            } else {
+                result12 = numDecodings(temp_s12);
+            }
+            maps[temp_s12] = result1;
+        }
+
+
+        return result1 + result12;
     }
 };
+
+int main() {
+
+    Solution solution = Solution();
+    int a = solution.numDecodings(
+//            "6065812287883668764831544958683283296479682877898293612168136334983851946827579555449329483852397155");
+           "9355141842519423434975558424574331479338913773268525913972842463395324957127519863135646135786662832");
+    cout << a;
+}
 

@@ -29,6 +29,8 @@ CMakeFiles/BastiLeetCode.dir/Ex202_Happy_Number.cpp.obj: ../Ex202_Happy_Number.c
 
 CMakeFiles/BastiLeetCode.dir/Ex22_Generate_Parentheses.cpp.obj: ../Ex22_Generate_Parentheses.cpp
 
+CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj: ../Ex287_Find_the_Duplicate_Number.cpp
+
 CMakeFiles/BastiLeetCode.dir/Ex31_Next_Permutation.cpp.obj: ../Ex31_Next_Permutation.cpp
 
 CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj: ../Ex39_Combination_Sum.cpp
@@ -36,6 +38,8 @@ CMakeFiles/BastiLeetCode.dir/Ex39_Combination_Sum.cpp.obj: ../Ex39_Combination_S
 CMakeFiles/BastiLeetCode.dir/Ex40_Combination_Sum_II.cpp.obj: ../Ex40_Combination_Sum_II.cpp
 
 CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.obj: ../Ex416_Partition_Equal_Subset_Sum.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj: ../Ex41_First_Missing_Positive.cpp
 
 CMakeFiles/BastiLeetCode.dir/Ex46_Permutations.cpp.obj: ../Ex46_Permutations.cpp
 
@@ -46,6 +50,8 @@ CMakeFiles/BastiLeetCode.dir/Ex53_Maximum_Subarray.cpp.obj: ../Ex53_Maximum_Suba
 CMakeFiles/BastiLeetCode.dir/Ex55_Jump_Game.cpp.obj: ../Ex55_Jump_Game.cpp
 
 CMakeFiles/BastiLeetCode.dir/Ex56_Merge_Intervals.cpp.obj: ../Ex56_Merge_Intervals.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj: ../Ex60_Permutation_Sequence.cpp
 
 CMakeFiles/BastiLeetCode.dir/Ex61_Rotate_List.cpp.obj: ../Ex61_Rotate_List.cpp
 
@@ -74,6 +80,8 @@ CMakeFiles/BastiLeetCode.dir/Ex83_Remove_Duplicates_from_Sorted_List.cpp.obj: ..
 CMakeFiles/BastiLeetCode.dir/Ex88_Merge_Sorted_Array.cpp.obj: ../Ex88_Merge_Sorted_Array.cpp
 
 CMakeFiles/BastiLeetCode.dir/Ex89_Gray_Code.cpp.obj: ../Ex89_Gray_Code.cpp
+
+CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj: ../Ex90_Subsets_II.cpp
 
 CMakeFiles/BastiLeetCode.dir/Ex91_Decode_Ways.cpp.obj: ../Ex91_Decode_Ways.cpp
 

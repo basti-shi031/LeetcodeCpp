@@ -500,6 +500,33 @@ Ex22_Generate_Parentheses.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex22_Generate_Parentheses.cpp.s
 .PHONY : Ex22_Generate_Parentheses.cpp.s
 
+Ex287_Find_the_Duplicate_Number.obj: Ex287_Find_the_Duplicate_Number.cpp.obj
+
+.PHONY : Ex287_Find_the_Duplicate_Number.obj
+
+# target to build an object file
+Ex287_Find_the_Duplicate_Number.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.obj
+.PHONY : Ex287_Find_the_Duplicate_Number.cpp.obj
+
+Ex287_Find_the_Duplicate_Number.i: Ex287_Find_the_Duplicate_Number.cpp.i
+
+.PHONY : Ex287_Find_the_Duplicate_Number.i
+
+# target to preprocess a source file
+Ex287_Find_the_Duplicate_Number.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.i
+.PHONY : Ex287_Find_the_Duplicate_Number.cpp.i
+
+Ex287_Find_the_Duplicate_Number.s: Ex287_Find_the_Duplicate_Number.cpp.s
+
+.PHONY : Ex287_Find_the_Duplicate_Number.s
+
+# target to generate assembly for a file
+Ex287_Find_the_Duplicate_Number.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex287_Find_the_Duplicate_Number.cpp.s
+.PHONY : Ex287_Find_the_Duplicate_Number.cpp.s
+
 Ex31_Next_Permutation.obj: Ex31_Next_Permutation.cpp.obj
 
 .PHONY : Ex31_Next_Permutation.obj
@@ -607,6 +634,33 @@ Ex416_Partition_Equal_Subset_Sum.s: Ex416_Partition_Equal_Subset_Sum.cpp.s
 Ex416_Partition_Equal_Subset_Sum.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex416_Partition_Equal_Subset_Sum.cpp.s
 .PHONY : Ex416_Partition_Equal_Subset_Sum.cpp.s
+
+Ex41_First_Missing_Positive.obj: Ex41_First_Missing_Positive.cpp.obj
+
+.PHONY : Ex41_First_Missing_Positive.obj
+
+# target to build an object file
+Ex41_First_Missing_Positive.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.obj
+.PHONY : Ex41_First_Missing_Positive.cpp.obj
+
+Ex41_First_Missing_Positive.i: Ex41_First_Missing_Positive.cpp.i
+
+.PHONY : Ex41_First_Missing_Positive.i
+
+# target to preprocess a source file
+Ex41_First_Missing_Positive.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.i
+.PHONY : Ex41_First_Missing_Positive.cpp.i
+
+Ex41_First_Missing_Positive.s: Ex41_First_Missing_Positive.cpp.s
+
+.PHONY : Ex41_First_Missing_Positive.s
+
+# target to generate assembly for a file
+Ex41_First_Missing_Positive.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex41_First_Missing_Positive.cpp.s
+.PHONY : Ex41_First_Missing_Positive.cpp.s
 
 Ex46_Permutations.obj: Ex46_Permutations.cpp.obj
 
@@ -742,6 +796,33 @@ Ex56_Merge_Intervals.s: Ex56_Merge_Intervals.cpp.s
 Ex56_Merge_Intervals.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex56_Merge_Intervals.cpp.s
 .PHONY : Ex56_Merge_Intervals.cpp.s
+
+Ex60_Permutation_Sequence.obj: Ex60_Permutation_Sequence.cpp.obj
+
+.PHONY : Ex60_Permutation_Sequence.obj
+
+# target to build an object file
+Ex60_Permutation_Sequence.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.obj
+.PHONY : Ex60_Permutation_Sequence.cpp.obj
+
+Ex60_Permutation_Sequence.i: Ex60_Permutation_Sequence.cpp.i
+
+.PHONY : Ex60_Permutation_Sequence.i
+
+# target to preprocess a source file
+Ex60_Permutation_Sequence.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.i
+.PHONY : Ex60_Permutation_Sequence.cpp.i
+
+Ex60_Permutation_Sequence.s: Ex60_Permutation_Sequence.cpp.s
+
+.PHONY : Ex60_Permutation_Sequence.s
+
+# target to generate assembly for a file
+Ex60_Permutation_Sequence.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex60_Permutation_Sequence.cpp.s
+.PHONY : Ex60_Permutation_Sequence.cpp.s
 
 Ex61_Rotate_List.obj: Ex61_Rotate_List.cpp.obj
 
@@ -1121,6 +1202,33 @@ Ex89_Gray_Code.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex89_Gray_Code.cpp.s
 .PHONY : Ex89_Gray_Code.cpp.s
 
+Ex90_Subsets_II.obj: Ex90_Subsets_II.cpp.obj
+
+.PHONY : Ex90_Subsets_II.obj
+
+# target to build an object file
+Ex90_Subsets_II.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.obj
+.PHONY : Ex90_Subsets_II.cpp.obj
+
+Ex90_Subsets_II.i: Ex90_Subsets_II.cpp.i
+
+.PHONY : Ex90_Subsets_II.i
+
+# target to preprocess a source file
+Ex90_Subsets_II.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.i
+.PHONY : Ex90_Subsets_II.cpp.i
+
+Ex90_Subsets_II.s: Ex90_Subsets_II.cpp.s
+
+.PHONY : Ex90_Subsets_II.s
+
+# target to generate assembly for a file
+Ex90_Subsets_II.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex90_Subsets_II.cpp.s
+.PHONY : Ex90_Subsets_II.cpp.s
+
 Ex91_Decode_Ways.obj: Ex91_Decode_Ways.cpp.obj
 
 .PHONY : Ex91_Decode_Ways.obj
@@ -1226,6 +1334,9 @@ help:
 	@echo ... Ex22_Generate_Parentheses.obj
 	@echo ... Ex22_Generate_Parentheses.i
 	@echo ... Ex22_Generate_Parentheses.s
+	@echo ... Ex287_Find_the_Duplicate_Number.obj
+	@echo ... Ex287_Find_the_Duplicate_Number.i
+	@echo ... Ex287_Find_the_Duplicate_Number.s
 	@echo ... Ex31_Next_Permutation.obj
 	@echo ... Ex31_Next_Permutation.i
 	@echo ... Ex31_Next_Permutation.s
@@ -1238,6 +1349,9 @@ help:
 	@echo ... Ex416_Partition_Equal_Subset_Sum.obj
 	@echo ... Ex416_Partition_Equal_Subset_Sum.i
 	@echo ... Ex416_Partition_Equal_Subset_Sum.s
+	@echo ... Ex41_First_Missing_Positive.obj
+	@echo ... Ex41_First_Missing_Positive.i
+	@echo ... Ex41_First_Missing_Positive.s
 	@echo ... Ex46_Permutations.obj
 	@echo ... Ex46_Permutations.i
 	@echo ... Ex46_Permutations.s
@@ -1253,6 +1367,9 @@ help:
 	@echo ... Ex56_Merge_Intervals.obj
 	@echo ... Ex56_Merge_Intervals.i
 	@echo ... Ex56_Merge_Intervals.s
+	@echo ... Ex60_Permutation_Sequence.obj
+	@echo ... Ex60_Permutation_Sequence.i
+	@echo ... Ex60_Permutation_Sequence.s
 	@echo ... Ex61_Rotate_List.obj
 	@echo ... Ex61_Rotate_List.i
 	@echo ... Ex61_Rotate_List.s
@@ -1295,6 +1412,9 @@ help:
 	@echo ... Ex89_Gray_Code.obj
 	@echo ... Ex89_Gray_Code.i
 	@echo ... Ex89_Gray_Code.s
+	@echo ... Ex90_Subsets_II.obj
+	@echo ... Ex90_Subsets_II.i
+	@echo ... Ex90_Subsets_II.s
 	@echo ... Ex91_Decode_Ways.obj
 	@echo ... Ex91_Decode_Ways.i
 	@echo ... Ex91_Decode_Ways.s

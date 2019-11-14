@@ -18,38 +18,36 @@ public:
         if (k == 0) {
             return;
         }
-        if (n == k) {
-            vector<int> a;
-            for (int i = 1; i <= n; ++i) {
-                a.push_back(i);
-            }
-            result.push_back(a);
-            return;
-        }
 
-        if (k == 1) {
-
-            for (int i = 1; i <= n + 1 - inputK; ++i) {
-                vector<int> a;
-                a.push_back(i);
-                result.push_back(a);
+        //初始化
+        if (k == inputK) {
+            for (int i = 0; i < n - k + 1; ++i) {
+                vector<int> v;
+                v.push_back(i + 1);
+                result.push_back(v);
             }
-        } else {
-            //        正常情况
+
             generate(result, n, k - 1);
-
-            for (int i = 0; i < result.size(); ++i) {
-
-                vector<int> item = result[i];
+        } else {
+            int size = result.size();
+            int i = 0;
+            for (; i < size; ++i) {
+                vector<int> tempResult = result[i];
                 result.erase(result.begin() + i);
-                int max = item[item.size() - 1];
-                for (int j = max + 1; j <= n; ++j) {
-                    vector<int> temp = item;
-                    temp.push_back(j);
-                    result.insert(result.begin() + i, temp);
+                int maxIndex = inputK - k - 1;
+                int currentMax = tempResult[maxIndex];
+                int max = n - k + 1;
+
+                for (int j = currentMax + 1; j < max + 1; ++j) {
+                    tempResult.push_back(j);
+                    result.insert(result.begin() + i, tempResult);
+                    tempResult.erase(tempResult.begin() + tempResult.size() - 1);
                 }
-                i += n - max-1;
+
+                size = result.size();
+                i = i + max - currentMax-1;
             }
+            generate(result, n, k - 1);
         }
 
 
@@ -66,15 +64,17 @@ public:
     }
 };
 
+
 /*
 int main() {
     Solution solution = Solution();
-    vector<vector<int>> v = solution.combine(5,3);
+    vector<vector<int>> v = solution.combine(4, 3);
 
     for (int i = 0; i < v.size(); ++i) {
         for (int j = 0; j < v[i].size(); ++j) {
             cout << v[i][j] << ' ';
         }
-        cout<<endl;
+        cout << endl;
     }
-}*/
+}
+*/
