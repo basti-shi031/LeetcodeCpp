@@ -47,4 +47,6 @@ add_executable(BastiLeetCode
         Ex41_First_Missing_Positive.cpp
         Ex60_Permutation_Sequence.cpp
         Ex90_Subsets_II.cpp
-        Ex91_Decode_Ways.cpp)
+        Ex91_Decode_Ways.cpp
+        Ex82_Remove_Duplicates_from_Sorted_List_II.cpp
+        Ex92_Reverse_Linked_List_II.cpp)
