@@ -49,4 +49,5 @@ add_executable(BastiLeetCode
         Ex90_Subsets_II.cpp
         Ex91_Decode_Ways.cpp
         Ex82_Remove_Duplicates_from_Sorted_List_II.cpp
-        Ex92_Reverse_Linked_List_II.cpp)
+        Ex92_Reverse_Linked_List_II.cpp
+        Ex127_Word_Ladder.cpp)

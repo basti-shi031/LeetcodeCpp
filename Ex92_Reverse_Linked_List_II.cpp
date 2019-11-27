@@ -17,7 +17,7 @@ struct ListNode {
 class Solution {
 public:
 
-    ListNode *reverseBetween(ListNode *head, int m, int n) {
+   /* ListNode *reverseBetween(ListNode *head, int m, int n) {
 
         if (head == NULL || head->next == NULL || m >= n) {
             return head;
@@ -66,8 +66,9 @@ public:
         return &dummyNode;
 
 
-    }
+    }*/
 };
+/*
 
 int main() {
     ListNode n1 = ListNode(1);
@@ -84,4 +85,5 @@ int main() {
     ListNode *a = solution.reverseBetween(&n1, 2, 4);
     int b = 1;
 }
+*/
 
