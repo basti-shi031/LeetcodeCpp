@@ -50,4 +50,7 @@ add_executable(BastiLeetCode
         Ex91_Decode_Ways.cpp
         Ex82_Remove_Duplicates_from_Sorted_List_II.cpp
         Ex92_Reverse_Linked_List_II.cpp
-        Ex127_Word_Ladder.cpp)
+        Ex127_Word_Ladder.cpp
+        Ex111_Minimum_Depth_of_Binary_Tree.cpp
+        Ex125_Valid_Palindrome.cpp
+        Ex151_Reverse_Words_in_a_String.cpp)

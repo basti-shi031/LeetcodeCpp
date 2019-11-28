@@ -101,7 +101,7 @@ public:
     }
 };
 
-int main() {
+/*int main() {
     Solution solution = Solution();
     vector<string> v;
     v.push_back("hot");
@@ -112,5 +112,5 @@ int main() {
     v.push_back("cog");
     int a = solution.ladderLength("hit", "cog", v);
     cout << a;
-}
+}*/
 
