@@ -40,9 +40,10 @@ public:
         return s;
     }
 };
+/*
 
 int main() {
     Solution solution = Solution();
     string s = solution.reverseWords("   a   b  c d   e  ");
     cout << s;
-}
+}*/

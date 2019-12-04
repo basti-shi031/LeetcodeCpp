@@ -176,6 +176,33 @@ Ex101_Symmetric_Tree.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex101_Symmetric_Tree.cpp.s
 .PHONY : Ex101_Symmetric_Tree.cpp.s
 
+Ex102_Binary_Tree_Level_Order_Traversal.obj: Ex102_Binary_Tree_Level_Order_Traversal.cpp.obj
+
+.PHONY : Ex102_Binary_Tree_Level_Order_Traversal.obj
+
+# target to build an object file
+Ex102_Binary_Tree_Level_Order_Traversal.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex102_Binary_Tree_Level_Order_Traversal.cpp.obj
+.PHONY : Ex102_Binary_Tree_Level_Order_Traversal.cpp.obj
+
+Ex102_Binary_Tree_Level_Order_Traversal.i: Ex102_Binary_Tree_Level_Order_Traversal.cpp.i
+
+.PHONY : Ex102_Binary_Tree_Level_Order_Traversal.i
+
+# target to preprocess a source file
+Ex102_Binary_Tree_Level_Order_Traversal.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex102_Binary_Tree_Level_Order_Traversal.cpp.i
+.PHONY : Ex102_Binary_Tree_Level_Order_Traversal.cpp.i
+
+Ex102_Binary_Tree_Level_Order_Traversal.s: Ex102_Binary_Tree_Level_Order_Traversal.cpp.s
+
+.PHONY : Ex102_Binary_Tree_Level_Order_Traversal.s
+
+# target to generate assembly for a file
+Ex102_Binary_Tree_Level_Order_Traversal.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex102_Binary_Tree_Level_Order_Traversal.cpp.s
+.PHONY : Ex102_Binary_Tree_Level_Order_Traversal.cpp.s
+
 Ex104_Maximum_Depth_of_Binary_Tree.obj: Ex104_Maximum_Depth_of_Binary_Tree.cpp.obj
 
 .PHONY : Ex104_Maximum_Depth_of_Binary_Tree.obj
@@ -230,6 +257,60 @@ Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.s
 .PHONY : Ex107_Binary_Tree_Level_Order_Traversal_II.cpp.s
 
+Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.obj: Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp.obj
+
+.PHONY : Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.obj
+
+# target to build an object file
+Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp.obj
+.PHONY : Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp.obj
+
+Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.i: Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp.i
+
+.PHONY : Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.i
+
+# target to preprocess a source file
+Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp.i
+.PHONY : Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp.i
+
+Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.s: Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp.s
+
+.PHONY : Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.s
+
+# target to generate assembly for a file
+Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp.s
+.PHONY : Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp.s
+
+Ex111_Minimum_Depth_of_Binary_Tree.obj: Ex111_Minimum_Depth_of_Binary_Tree.cpp.obj
+
+.PHONY : Ex111_Minimum_Depth_of_Binary_Tree.obj
+
+# target to build an object file
+Ex111_Minimum_Depth_of_Binary_Tree.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex111_Minimum_Depth_of_Binary_Tree.cpp.obj
+.PHONY : Ex111_Minimum_Depth_of_Binary_Tree.cpp.obj
+
+Ex111_Minimum_Depth_of_Binary_Tree.i: Ex111_Minimum_Depth_of_Binary_Tree.cpp.i
+
+.PHONY : Ex111_Minimum_Depth_of_Binary_Tree.i
+
+# target to preprocess a source file
+Ex111_Minimum_Depth_of_Binary_Tree.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex111_Minimum_Depth_of_Binary_Tree.cpp.i
+.PHONY : Ex111_Minimum_Depth_of_Binary_Tree.cpp.i
+
+Ex111_Minimum_Depth_of_Binary_Tree.s: Ex111_Minimum_Depth_of_Binary_Tree.cpp.s
+
+.PHONY : Ex111_Minimum_Depth_of_Binary_Tree.s
+
+# target to generate assembly for a file
+Ex111_Minimum_Depth_of_Binary_Tree.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex111_Minimum_Depth_of_Binary_Tree.cpp.s
+.PHONY : Ex111_Minimum_Depth_of_Binary_Tree.cpp.s
+
 Ex120_Triangle.obj: Ex120_Triangle.cpp.obj
 
 .PHONY : Ex120_Triangle.obj
@@ -283,6 +364,60 @@ Ex121_2.s: Ex121_2.cpp.s
 Ex121_2.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex121_2.cpp.s
 .PHONY : Ex121_2.cpp.s
+
+Ex125_Valid_Palindrome.obj: Ex125_Valid_Palindrome.cpp.obj
+
+.PHONY : Ex125_Valid_Palindrome.obj
+
+# target to build an object file
+Ex125_Valid_Palindrome.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex125_Valid_Palindrome.cpp.obj
+.PHONY : Ex125_Valid_Palindrome.cpp.obj
+
+Ex125_Valid_Palindrome.i: Ex125_Valid_Palindrome.cpp.i
+
+.PHONY : Ex125_Valid_Palindrome.i
+
+# target to preprocess a source file
+Ex125_Valid_Palindrome.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex125_Valid_Palindrome.cpp.i
+.PHONY : Ex125_Valid_Palindrome.cpp.i
+
+Ex125_Valid_Palindrome.s: Ex125_Valid_Palindrome.cpp.s
+
+.PHONY : Ex125_Valid_Palindrome.s
+
+# target to generate assembly for a file
+Ex125_Valid_Palindrome.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex125_Valid_Palindrome.cpp.s
+.PHONY : Ex125_Valid_Palindrome.cpp.s
+
+Ex127_Word_Ladder.obj: Ex127_Word_Ladder.cpp.obj
+
+.PHONY : Ex127_Word_Ladder.obj
+
+# target to build an object file
+Ex127_Word_Ladder.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex127_Word_Ladder.cpp.obj
+.PHONY : Ex127_Word_Ladder.cpp.obj
+
+Ex127_Word_Ladder.i: Ex127_Word_Ladder.cpp.i
+
+.PHONY : Ex127_Word_Ladder.i
+
+# target to preprocess a source file
+Ex127_Word_Ladder.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex127_Word_Ladder.cpp.i
+.PHONY : Ex127_Word_Ladder.cpp.i
+
+Ex127_Word_Ladder.s: Ex127_Word_Ladder.cpp.s
+
+.PHONY : Ex127_Word_Ladder.s
+
+# target to generate assembly for a file
+Ex127_Word_Ladder.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex127_Word_Ladder.cpp.s
+.PHONY : Ex127_Word_Ladder.cpp.s
 
 Ex129_Sum_Root_to_Leaf_Numbers.obj: Ex129_Sum_Root_to_Leaf_Numbers.cpp.obj
 
@@ -364,6 +499,33 @@ Ex139_Word_Break.s: Ex139_Word_Break.cpp.s
 Ex139_Word_Break.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex139_Word_Break.cpp.s
 .PHONY : Ex139_Word_Break.cpp.s
+
+Ex151_Reverse_Words_in_a_String.obj: Ex151_Reverse_Words_in_a_String.cpp.obj
+
+.PHONY : Ex151_Reverse_Words_in_a_String.obj
+
+# target to build an object file
+Ex151_Reverse_Words_in_a_String.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex151_Reverse_Words_in_a_String.cpp.obj
+.PHONY : Ex151_Reverse_Words_in_a_String.cpp.obj
+
+Ex151_Reverse_Words_in_a_String.i: Ex151_Reverse_Words_in_a_String.cpp.i
+
+.PHONY : Ex151_Reverse_Words_in_a_String.i
+
+# target to preprocess a source file
+Ex151_Reverse_Words_in_a_String.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex151_Reverse_Words_in_a_String.cpp.i
+.PHONY : Ex151_Reverse_Words_in_a_String.cpp.i
+
+Ex151_Reverse_Words_in_a_String.s: Ex151_Reverse_Words_in_a_String.cpp.s
+
+.PHONY : Ex151_Reverse_Words_in_a_String.s
+
+# target to generate assembly for a file
+Ex151_Reverse_Words_in_a_String.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex151_Reverse_Words_in_a_String.cpp.s
+.PHONY : Ex151_Reverse_Words_in_a_String.cpp.s
 
 Ex18_4Sum.obj: Ex18_4Sum.cpp.obj
 
@@ -1121,6 +1283,33 @@ Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp.s
 .PHONY : Ex80_Remove_Duplicates_from_Sorted_Array_II.cpp.s
 
+Ex82_Remove_Duplicates_from_Sorted_List_II.obj: Ex82_Remove_Duplicates_from_Sorted_List_II.cpp.obj
+
+.PHONY : Ex82_Remove_Duplicates_from_Sorted_List_II.obj
+
+# target to build an object file
+Ex82_Remove_Duplicates_from_Sorted_List_II.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex82_Remove_Duplicates_from_Sorted_List_II.cpp.obj
+.PHONY : Ex82_Remove_Duplicates_from_Sorted_List_II.cpp.obj
+
+Ex82_Remove_Duplicates_from_Sorted_List_II.i: Ex82_Remove_Duplicates_from_Sorted_List_II.cpp.i
+
+.PHONY : Ex82_Remove_Duplicates_from_Sorted_List_II.i
+
+# target to preprocess a source file
+Ex82_Remove_Duplicates_from_Sorted_List_II.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex82_Remove_Duplicates_from_Sorted_List_II.cpp.i
+.PHONY : Ex82_Remove_Duplicates_from_Sorted_List_II.cpp.i
+
+Ex82_Remove_Duplicates_from_Sorted_List_II.s: Ex82_Remove_Duplicates_from_Sorted_List_II.cpp.s
+
+.PHONY : Ex82_Remove_Duplicates_from_Sorted_List_II.s
+
+# target to generate assembly for a file
+Ex82_Remove_Duplicates_from_Sorted_List_II.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex82_Remove_Duplicates_from_Sorted_List_II.cpp.s
+.PHONY : Ex82_Remove_Duplicates_from_Sorted_List_II.cpp.s
+
 Ex83_Remove_Duplicates_from_Sorted_List.obj: Ex83_Remove_Duplicates_from_Sorted_List.cpp.obj
 
 .PHONY : Ex83_Remove_Duplicates_from_Sorted_List.obj
@@ -1256,6 +1445,33 @@ Ex91_Decode_Ways.cpp.s:
 	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex91_Decode_Ways.cpp.s
 .PHONY : Ex91_Decode_Ways.cpp.s
 
+Ex92_Reverse_Linked_List_II.obj: Ex92_Reverse_Linked_List_II.cpp.obj
+
+.PHONY : Ex92_Reverse_Linked_List_II.obj
+
+# target to build an object file
+Ex92_Reverse_Linked_List_II.cpp.obj:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex92_Reverse_Linked_List_II.cpp.obj
+.PHONY : Ex92_Reverse_Linked_List_II.cpp.obj
+
+Ex92_Reverse_Linked_List_II.i: Ex92_Reverse_Linked_List_II.cpp.i
+
+.PHONY : Ex92_Reverse_Linked_List_II.i
+
+# target to preprocess a source file
+Ex92_Reverse_Linked_List_II.cpp.i:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex92_Reverse_Linked_List_II.cpp.i
+.PHONY : Ex92_Reverse_Linked_List_II.cpp.i
+
+Ex92_Reverse_Linked_List_II.s: Ex92_Reverse_Linked_List_II.cpp.s
+
+.PHONY : Ex92_Reverse_Linked_List_II.s
+
+# target to generate assembly for a file
+Ex92_Reverse_Linked_List_II.cpp.s:
+	$(MAKE) -f CMakeFiles\BastiLeetCode.dir\build.make CMakeFiles/BastiLeetCode.dir/Ex92_Reverse_Linked_List_II.cpp.s
+.PHONY : Ex92_Reverse_Linked_List_II.cpp.s
+
 Ex93_Restore_IP_Addresses.obj: Ex93_Restore_IP_Addresses.cpp.obj
 
 .PHONY : Ex93_Restore_IP_Addresses.obj
@@ -1298,18 +1514,33 @@ help:
 	@echo ... Ex101_Symmetric_Tree.obj
 	@echo ... Ex101_Symmetric_Tree.i
 	@echo ... Ex101_Symmetric_Tree.s
+	@echo ... Ex102_Binary_Tree_Level_Order_Traversal.obj
+	@echo ... Ex102_Binary_Tree_Level_Order_Traversal.i
+	@echo ... Ex102_Binary_Tree_Level_Order_Traversal.s
 	@echo ... Ex104_Maximum_Depth_of_Binary_Tree.obj
 	@echo ... Ex104_Maximum_Depth_of_Binary_Tree.i
 	@echo ... Ex104_Maximum_Depth_of_Binary_Tree.s
 	@echo ... Ex107_Binary_Tree_Level_Order_Traversal_II.obj
 	@echo ... Ex107_Binary_Tree_Level_Order_Traversal_II.i
 	@echo ... Ex107_Binary_Tree_Level_Order_Traversal_II.s
+	@echo ... Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.obj
+	@echo ... Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.i
+	@echo ... Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.s
+	@echo ... Ex111_Minimum_Depth_of_Binary_Tree.obj
+	@echo ... Ex111_Minimum_Depth_of_Binary_Tree.i
+	@echo ... Ex111_Minimum_Depth_of_Binary_Tree.s
 	@echo ... Ex120_Triangle.obj
 	@echo ... Ex120_Triangle.i
 	@echo ... Ex120_Triangle.s
 	@echo ... Ex121_2.obj
 	@echo ... Ex121_2.i
 	@echo ... Ex121_2.s
+	@echo ... Ex125_Valid_Palindrome.obj
+	@echo ... Ex125_Valid_Palindrome.i
+	@echo ... Ex125_Valid_Palindrome.s
+	@echo ... Ex127_Word_Ladder.obj
+	@echo ... Ex127_Word_Ladder.i
+	@echo ... Ex127_Word_Ladder.s
 	@echo ... Ex129_Sum_Root_to_Leaf_Numbers.obj
 	@echo ... Ex129_Sum_Root_to_Leaf_Numbers.i
 	@echo ... Ex129_Sum_Root_to_Leaf_Numbers.s
@@ -1319,6 +1550,9 @@ help:
 	@echo ... Ex139_Word_Break.obj
 	@echo ... Ex139_Word_Break.i
 	@echo ... Ex139_Word_Break.s
+	@echo ... Ex151_Reverse_Words_in_a_String.obj
+	@echo ... Ex151_Reverse_Words_in_a_String.i
+	@echo ... Ex151_Reverse_Words_in_a_String.s
 	@echo ... Ex18_4Sum.obj
 	@echo ... Ex18_4Sum.i
 	@echo ... Ex18_4Sum.s
@@ -1403,6 +1637,9 @@ help:
 	@echo ... Ex80_Remove_Duplicates_from_Sorted_Array_II.obj
 	@echo ... Ex80_Remove_Duplicates_from_Sorted_Array_II.i
 	@echo ... Ex80_Remove_Duplicates_from_Sorted_Array_II.s
+	@echo ... Ex82_Remove_Duplicates_from_Sorted_List_II.obj
+	@echo ... Ex82_Remove_Duplicates_from_Sorted_List_II.i
+	@echo ... Ex82_Remove_Duplicates_from_Sorted_List_II.s
 	@echo ... Ex83_Remove_Duplicates_from_Sorted_List.obj
 	@echo ... Ex83_Remove_Duplicates_from_Sorted_List.i
 	@echo ... Ex83_Remove_Duplicates_from_Sorted_List.s
@@ -1418,6 +1655,9 @@ help:
 	@echo ... Ex91_Decode_Ways.obj
 	@echo ... Ex91_Decode_Ways.i
 	@echo ... Ex91_Decode_Ways.s
+	@echo ... Ex92_Reverse_Linked_List_II.obj
+	@echo ... Ex92_Reverse_Linked_List_II.i
+	@echo ... Ex92_Reverse_Linked_List_II.s
 	@echo ... Ex93_Restore_IP_Addresses.obj
 	@echo ... Ex93_Restore_IP_Addresses.i
 	@echo ... Ex93_Restore_IP_Addresses.s

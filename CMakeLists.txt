@@ -53,4 +53,6 @@ add_executable(BastiLeetCode
         Ex127_Word_Ladder.cpp
         Ex111_Minimum_Depth_of_Binary_Tree.cpp
         Ex125_Valid_Palindrome.cpp
-        Ex151_Reverse_Words_in_a_String.cpp)
+        Ex151_Reverse_Words_in_a_String.cpp
+        Ex102_Binary_Tree_Level_Order_Traversal.cpp
+        Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp)
