@@ -56,4 +56,6 @@ add_executable(BastiLeetCode
         Ex151_Reverse_Words_in_a_String.cpp
         Ex102_Binary_Tree_Level_Order_Traversal.cpp
         Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp
-        Ex206_Reverse_Linked_List.cpp)
+        Ex206_Reverse_Linked_List.cpp
+        Ex213_House_Robber_II.cpp
+        Ex219_Contains_Duplicate_II.cpp)
