@@ -58,4 +58,6 @@ add_executable(BastiLeetCode
         Ex108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp
         Ex206_Reverse_Linked_List.cpp
         Ex213_House_Robber_II.cpp
-        Ex219_Contains_Duplicate_II.cpp)
+        Ex219_Contains_Duplicate_II.cpp
+        Ex227_Basic_Calculator_II.cpp
+        Ex241_Different_Ways_to_Add_Parentheses.cpp)

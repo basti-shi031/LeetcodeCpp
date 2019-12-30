@@ -36,6 +36,7 @@ public:
     }
 };
 
+/*
 int main() {
     vector<int> v;
     v.push_back(1);
@@ -47,4 +48,4 @@ int main() {
 
     Solution solution = Solution();
     solution.containsNearbyDuplicate(v, 2);
-}
+}*/
